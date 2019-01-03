@@ -1,6 +1,6 @@
 # AI-Engineer-Diary
 人工智障算法工程师养成记
-One step a day, but never step back.
+One baby step a day, but never step back.
 
 
 
