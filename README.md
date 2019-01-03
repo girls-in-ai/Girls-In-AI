@@ -19,3 +19,4 @@ One baby step a day, but never step back.
 
 安身立命，免费教学，你看看其他的课程哎，那么贵
 
+最后希望大家都能站在食物链上游
