@@ -1,6 +1,7 @@
 # AI-Engineer-Diary
 人工智障算法工程师养成记
 One baby step a day, but never step back.
+Coding is the new sexy.
 
 
 
