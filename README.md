@@ -87,3 +87,15 @@ One baby step a day, but never step back.
 从零开始，如果有懂机器学习的热心小伙伴愿意一起维护的，或者你有什么意见或者建议都可以微博私信提给我。
 
 Let's see what we can do.
+
+
+
+## GIA Log
+
+GIA为 GirlsInAI的简称。
+
+2019-1-4	GirlsInAI 成立
+
+2019-1-4	GIA 维护者成员 > 1
+
+2019-1-5	GIA GitHub stars > 100
