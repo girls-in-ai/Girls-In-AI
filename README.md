@@ -98,4 +98,6 @@ GIA为 GirlsInAI的简称。
 
 2019-1-4	GIA 维护者成员 > 1
 
+2019-1-4	GIA Scholarship = 1000 rmb
+
 2019-1-5	GIA GitHub stars > 100
