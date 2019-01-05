@@ -38,7 +38,7 @@ https://github.com/getlantern/mirror
 
 请注意，同时，你上面填写的邮箱会收到一封邮箱验证邮件
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/sign_up_github/verify_email.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/sign_up_github/email.png?raw=true)
 
 点击 Verify email address
 
