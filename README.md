@@ -5,6 +5,8 @@ If you want to be one of Girls In AI, welcome to [CodeWithZhangYi](https://m.wei
 
 入门帖：[如何成为一名AI算法工程师](https://m.weibo.cn/status/4289240508237933?)
 
+如果你是第一次玩GitHub：[注册GitHub账号教程](https://github.com/YZHANG1270/Girls-In-AI/blob/master/sign_up_github/README.md)
+
 
 
 ## What is Girls-In-AI
@@ -45,6 +47,18 @@ One baby step a day, but never step back.
 
 
 
+## What else
+
+其他可能开展的项目：
+
+- paper reading clue
+- leetcode notes share
+- kaggle together
+- 机器学习面试题分享
+- 组织大家为公益项目免费写代码
+
+
+
 ## Why AI Engineer
 
 - AI算法工程师的工资就不用我科普了吧
@@ -60,13 +74,15 @@ One baby step a day, but never step back.
 
 技术无性别，但是社会有强弱。我还是想鼓励更多的女孩子们加入到科技行业，从事社会地位高的有意思的工作。所以2019年的奖学金就是面向女生的。最少的是我投入的500rmb。如果受到支持，会加大奖学金额，上不封顶。
 
+截至2019-1-5，已收到第一笔支持金500rmb。目前共1000rmb的奖学金在等着你！同时，欢迎任何对这个项目的赞助与支持，如有兴趣请发邮件联系我：597426363@qq.com。将会公开赞助金额超过100rmb的名单。
+
 另外，这个计划所有的课程都免费。对！免费！如果你没钱报外面三五万的水培训班，而你恰好有时间学，欢迎你来！
 
 
 
-## Join Me
+## Join Us
 
-目前这个项目是只有我一个人维护，所以更新速度、质量、美观等不能周全。时间和精力都非常有限，从实用性和美观性中，请原谅我现在只能往实用性考虑。
+目前这个项目是由来自世界各地（美国、日本、荷兰、中国）的优秀程序媛挤出空余时间维护，所以更新速度、质量、美观等不能周全。时间和精力都非常有限，从实用性和美观性中，请原谅现在只能往实用性考虑。
 
 从零开始，如果有懂机器学习的热心小伙伴愿意一起维护的，或者你有什么意见或者建议都可以微博私信提给我。
 
