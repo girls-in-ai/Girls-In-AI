@@ -24,6 +24,7 @@ If you want to be one of Girls In AI, welcome to [CodeWithZhangYi](https://m.wei
 首先介绍下第一期计划：
 
 **人工智障算法工程师养成记**
+
 One baby step a day, but never step back.
 
 分享的内容如下：
@@ -37,7 +38,7 @@ One baby step a day, but never step back.
 - 上面内容我随便举例的。。。。。
 - 分享优质学习材料/课程
 - 注重学习的顺序性
-- 我自己身处这个行业中，会把分享内容的方向跟着潮流走
+- 身处这个行业中，会把分享内容的方向跟着潮流走
 
 从头开始科普，每次更新的内容只有一点点，适合下班饭后或者入睡前敲敲打打试一试。
 
@@ -90,13 +91,11 @@ Let's see what we can do.
 
 
 
-## GIA Log
-
-GIA为 GirlsInAI的简称。
+## GirlsInAI Log
 
 2019-1-4	GirlsInAI 成立
 
-2019-1-4	GIA 维护者成员 > 1
+2019-1-4	GIA 维护者成员=5，她们来自在美国、日本、荷兰、中国的程序媛
 
 2019-1-4	GIA Scholarship = 1000 rmb
 
