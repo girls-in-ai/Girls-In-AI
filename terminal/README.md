@@ -46,10 +46,12 @@ git version
 
 当你从git上面clone一个repo (大家可以暂时想象成从一个遥远的地方拷贝一个文件夹到你自己的电脑上）时，它会自动帮你创建一个和这个repo同名的文件夹，里面包含着这个repo下面的所有内容。
 
-首先我们回到GitHub GirlsInAI的repo, 在下图的标注的位置有一个绿色的Clone or download按钮，按下这个键之后，会出现一个Clone with HTTPS的信息框，我们点击右边这个复制小按钮，就把GirlsInAI的repo地址存在了剪贴板。
-![](https://github.com/qingdoua/Girls-In-AI/blob/master/others/pics/terminal/copyRepoAddress.png?raw=true)
-
-这时我们回到Terminal, 输入git clone command+v (粘贴repo地址），按下回车键，系统就会自动复制GirlsInAI的repo内容。
+具体步骤：
+1. 打开GitHub,找到GirlsInAI的repo页面
+2. 点击图中绿色Clone or download按钮
+3. 复制repo地址
+4. 回到Terminal, 输入git clone <repo address>，按下回车
+  --具体下图所示，注意并不需要输入<>，<>在command line里通常代表你需要输入的具体内容
 ![](https://github.com/qingdoua/Girls-In-AI/blob/master/others/pics/terminal/gitClone.png?raw=true)
 
 这时大家可以通过Finder里面的文件夹，找到GirlsInAI这个文件夹，看看是不是包含了和GitHub上面一样的内容呢 :)
