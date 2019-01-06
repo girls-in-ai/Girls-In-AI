@@ -80,7 +80,7 @@ Wait！！我是来看Python的！到现在这个是什么发展轨迹？好的�
 ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day1/007.png?raw=true)
 
 1. 在1号红圈圈的框内就可以敲代码啦
-2. 敲完之后点击2号哄圈圈的Run就可以运行了
+2. 敲完之后点击2号红圈圈的Run就可以运行了
 
 比如我敲的：
 
