@@ -52,7 +52,7 @@ One baby step a day, but never step back.
 
 其他可能开展的项目：
 
-- paper reading clue
+- paper reading club
 - leetcode notes share
 - kaggle together
 - 机器学习面试题分享
