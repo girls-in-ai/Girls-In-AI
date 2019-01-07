@@ -1,4 +1,4 @@
-# Python入门之变量/Variable
+# Day3：Python入门之变量/Variable
 
 欢迎大家回到GirlsInAI👏
 
