@@ -19,7 +19,9 @@ print (message)
 ```
 就会看到一行内容被print出来啦！
 
+
 下面是我的代码和运行结果：
+
 ![](https://github.com/qingdoua/Girls-In-AI/blob/master/others/pics/ml_day2/message.png?raw=true)
 
 记得代码`从上往下一行一行`运行喔！
