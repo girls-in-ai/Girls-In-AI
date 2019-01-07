@@ -1,6 +1,8 @@
 # Girls-In-AI
 **Coding is the new sexy.** 
 
+关注我们的微博账号 [@Girls-In-AI](https://m.weibo.cn/profile/2650740963)，获取Girls-In-AI的最新内容，跟我们一起学习吧~
+
 If you want to be one of Girls In AI, welcome to [CodeWithZhangYi](https://m.weibo.cn/profile/3340707810).
 
 入门帖：[如何成为一名AI算法工程师](https://m.weibo.cn/status/4289240508237933?)
@@ -85,7 +87,7 @@ One baby step a day, but never step back.
 
 目前这个项目是由来自世界各地（美国、日本、荷兰、中国）的优秀程序媛挤出空余时间维护，所以更新速度、质量、美观等不能周全。时间和精力都非常有限，从实用性和美观性中，请原谅现在只能往实用性考虑。
 
-从零开始，如果有懂机器学习的热心小伙伴愿意一起维护的，或者你有什么意见或者建议都可以微博私信提给我。
+从零开始，如果有懂机器学习的热心小伙伴愿意一起维护的，或者你有什么意见或者建议都可以微博私信提给我或者@Girls-In-AI。
 
 Let's see what we can do.
 
@@ -100,3 +102,7 @@ Let's see what we can do.
 2019-1-4	GIA Scholarship = 1000 rmb
 
 2019-1-5	GIA GitHub stars > 100
+
+2019-1-6    GIA GitHub stars > 200
+
+2019-1-6    GIA微博账号成立 @Girsl-In-AI
