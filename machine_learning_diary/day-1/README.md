@@ -6,7 +6,7 @@
 
 
 
-**今天是day-1，来带大家初始Python。**
+**今天是day-1，来带大家初识Python。**
 
 
 
@@ -73,7 +73,7 @@ Wait！！我是来看Python的！到现在这个是什么发展轨迹？好的�
 
 
 
-## 初始 Python
+## 初识 Python
 
 点击之后弹出一个新的网页，没错，还是Jupyter：
 
@@ -93,5 +93,15 @@ Wait！！我是来看Python的！到现在这个是什么发展轨迹？好的�
 好了，你现在认识python了，至于Jupyter是谁，还是很重要，嘿嘿😎
 
 Jupyter Notebook相当于一个笔记本，而python是你记笔记的语言。比如你要写手账，Jupyter就是你的hobo本子，python就是你的文字你的贴图你的内容，ok？
+
+
+
+## 关闭 Jupyter Notebook
+
+当你把笔记写完后，自然要合上笔记本。在这里也一样，当你敲完代码，你也需要关闭Jupyter Notebook。操作很简单，回到这个黑色小方框，在框内随便点击一下，再 Ctr+C，对就是平时的复制快捷键，按两遍就直接关闭了。![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day1/004.png?raw=true)
+
+
+
+
 
 👩好啦，今天的课程就到这里，咱们下期见~！
