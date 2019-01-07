@@ -1,76 +1,135 @@
-# Python入门之变量/Variable
+# Day2：Python这一大家子
 
 欢迎大家回到GirlsInAI👏
 
-今天是 **[machine_learning_diary](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary)** 的day-2, 来带大家学习变量和如何在Python中创建新变量。
+今天是 [**machine_learning_diary**](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary) 的day-2, 来带大家稍微认识一下Python这一大家子。并且从中选一个作为来日方长的伴侣。
 
-变量是计算机编程中一个很基础的概念，在计算机程序中，variables are reserved memory locations to store values. 当你新建一个variable的时候，你就在存储空间里预留了一部分位置。在计算机程序中，变量不仅可以是数字，也可以是任意的数据类型。具体的关于数据类型的部分，我们今天会接触到一点点，以后还会有深入展开的教程。
-
-话不多说，我们先来通过几个小例子来理解变量这个概念吧！
-
-### Example 1
-打开Jupyter Notebook之后，输入下面这行代码，我们就创建了一个叫做message的变量。
-```sh
-message = 'I am learning Python'
-```
-之后我们再输入
-```sh
-print (message)
-```
-就会看到一行内容被print出来啦！
+注：建议大家把Chrome设为默认浏览器。
 
 
-下面是我的代码和运行结果：
 
-![](https://github.com/qingdoua/Girls-In-AI/blob/master/others/pics/ml_day2/message.png?raw=true)
+## 查看当前 Jupyter 的Python版本
 
-记得代码`从上往下一行一行`运行喔！
+按照昨天的方法打开Jupyter Notebook。如果你的默认浏览器是Chrome，会自动弹出页面：
 
-在Python中， `=`用来给变量`赋值`。在这个例子中，我们给message这个变量赋予了‘I am learning Python'这个值。在我们执行
-```sh
-message = 'I am learning Python'
-```
-这行代码的时候，Python做了两件事情：1是在内存中创建了一个叫做message的变量和一个‘I am learning Python’的字符串；2是把message这个变量指向‘I am learning Python'这个字符串。
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day1/006.png?raw=true)
 
-### Example 2
-我们再来创建另外一个变量
-```sh
-num = 2019
-```
-同样我们可以print出这个变量的值来
-```sh
-print(num)
-```
+按照day-1的方法点击“New”，点击“Terminal”，中文是“终端”的意思：
 
-![](https://github.com/qingdoua/Girls-In-AI/blob/master/others/pics/ml_day2/num.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/004.jpg?raw=true)
 
-看到这一步，你是不是觉得有点太简单了呢？我们创建了一个叫做num的变量，然后呢？
-别着急，下面我们用num来print出一个新的数值吧
-```sh
-newNum = num + 100
-print(newNum)
-```
-再看看这次print出来的结果，有什么不一样呢？
+在新弹出来的窗口中输入“python”，就可以看到我这里当前python版本是3.6的。因为我是之前就下载了的。如果是day-1下载的同学们应该是3.7的。
 
-![](https://github.com/qingdoua/Girls-In-AI/blob/master/others/pics/ml_day2/newNum.png?raw=true)
-
-在上面这一段代码里，我们在num这个变量的基础上，同个`+`这个操作，创建了一个新的变量，在这里这个`+`被称作`operator`, 今天只是简单的介绍，在以后的课程中我们会学到更多的operators.
-
-通过上面的两个例子，大家学会如何创建变量了吗？你也可以试着自己创建一些有趣的变量，来熟悉今天学到的知识喔。
-
-Python一门很特殊的语言，它使用`object(对象)`这个概念来实现对数据的抽象。上面我们创建出的几个变量，`message`, `num`, 以及`newNum`，在Python中都被称作对象。至于对象的类型和其他特性，我们会在以后的课程中慢慢展开。
-
-### Future Reading
-如果你想学习了解更多关于Python变量的知识，可以通过下面几个网站：
-https://www.tutorialspoint.com/python3/python_variable_types.htm
-https://docspy3zh.readthedocs.io/en/latest/reference/datamodel.html
-
-好啦今天的课程就到这里了，希望大家学得愉快，也欢迎大家在微博上面和我们互动，下期见~
-
-`It's a beautiful day to write some code!`
-
--青豆 @ Seattle, 2019/01/06
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/007.png?raw=true)
 
 
 
 
+
+## Py2、Py3
+
+科普时刻：
+
+1. python作为一种编程语言有很多版本。还在不断进化中。
+2. Py（或py）是python的通用缩写。“.py”是python文件的后缀。就像“.xlsx”是excel文件后缀。
+3. **Py2** 和 **Py3** 是python语言的两大主流。就像繁体字与简体字的关系。
+4. 目前最新的版本是Py3.7。（2019-01-07）
+5. Jupyter 和 Python的版本要一致才能顺利运行。
+
+**接下来的课程我们选用Py3.5**。首先，它属于“py3”行列，py2已经渐渐被淘汰。其次，不要用最新版的语言，容易踩坑。当然，随着时间的流逝，这个也是会变化的。所以今天我们要做两件事：
+
+- 下载python3.5的环境+配置这个环境
+- 下载对应的 Jupyter Notebook
+
+
+
+
+
+## 下载Python 3.5
+
+点击左下角菜单，点击Anaconda文件夹下的Anaconda Navigator：
+
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/001.jpg?raw=true)
+
+点开之后你将看见：
+
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/001.png?raw=true)
+
+1. 点击左侧菜单栏的“Environment”
+2. 点击下方的“Create”
+3. 在弹出的对话框选择“Python 3.5”
+4. 给这个新环境命名，例如我的就很直接叫“python35”。你可以取你喜欢的代号，毕竟以后天天见。
+5. 点击对话框的“Create”，完成Python3.5的下载
+
+
+
+## Win10 环境变量配置
+
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/002.png?raw=true)
+
+找到你的python3.5下载到的文件夹，下图为我py35的地址：
+
+- C:\Users\Yi\Anaconda3\envs\python35
+- C:\Users\Yi\Anaconda3\envs\python35\Scripts
+
+上面这两个地址随便选一个复制，然后看下图：
+
+
+
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/003.png?raw=true)
+
+1. 在“此电脑”右击选择“属性”，弹出控制面板对话框
+2. 点击“高级系统设置”
+3. 点击“环境变量”
+4. 找到下方的系统变量方框
+5. 找到“Path”，双击打开
+6. 点击右侧“编辑”
+7. 在第一个添加刚刚复制的python35的地址：C:\Users\Yi\Anaconda3\envs\python35
+8. 点击“确定”
+9. 点击“确定”
+10. 点击“确定”
+11. Ok，完成！
+
+
+
+## 下载python3.5版本的 Jupyter Notebook
+
+把新的语言下载好了，当然书写的笔记本也要更新。
+
+点击左下角菜单，点击Anaconda文件夹下的Anaconda Prompt：
+
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/002.jpg?raw=true)
+
+弹出一个黑框：
+
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/006.png?raw=true)
+
+1. 输入“activate python35”，启动新环境。这里的“python35”是我取的新环境名字，你填入你取的名字。
+2. 输入“pip install jupyter notebook”，进行“丘比特💘”笔记本下载。
+3. 漫长的等待，直至下载完成，大功告成。
+
+
+
+
+
+## 作业：
+
+### 检查 Jupyter 的 新环境
+
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/006.png?raw=true)
+
+当新的py3.5版本的Jupyter下载完之后，继续输入命令“jupyter notebook”，就能启动你的新笔记本了：
+
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/008.png?raw=true)
+
+此时，仍然会弹出一个页面：
+
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day1/006.png?raw=true)
+
+这时候你再点击“New”下面的“Terminal”，输入“python”，看看到底变成了什么版本~~🙌
+
+
+
+关于MacOS版本后续补上。大家有什么不懂的可以第一时间Google一下，也欢迎来跟我们分享讨论今天的内容。
+
+👩好啦，今天的课程就到这里，咱们下期见~！
