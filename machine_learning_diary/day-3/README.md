@@ -2,14 +2,20 @@
 
 欢迎大家回到GirlsInAI👏
 
-今天是 **[machine_learning_diary](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary)** 的day-2, 来带大家学习变量和如何在Python中创建新变量。
+今天是 **[machine_learning_diary](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary)** 的day-3, 来带大家学习变量和如何在Python中创建新变量。
 
 变量是计算机编程中一个很基础的概念，在计算机程序中，variables are reserved memory locations to store values. 当你新建一个variable的时候，你就在存储空间里预留了一部分位置。在计算机程序中，变量不仅可以是数字，也可以是任意的数据类型。具体的关于数据类型的部分，我们今天会接触到一点点，以后还会有深入展开的教程。
 
 话不多说，我们先来通过几个小例子来理解变量这个概念吧！
 
 ### Example 1
-打开Jupyter Notebook之后，输入下面这行代码，我们就创建了一个叫做message的变量。
+请大家按照Day-2教的方法，打开Anaconda Prompt黑框，输入：
+
+- activate python35(用你自己的环境名替换) 
+- jupyter notebook
+
+打开Jupyter Notebook，输入下面这行代码，我们就创建了一个叫做message的变量。
+
 ```sh
 message = 'I am learning Python'
 ```
