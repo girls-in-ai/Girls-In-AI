@@ -10,6 +10,6 @@
 
 2019-1-6	GIA GitHub stars > 200
 
-2019-1-6	GIA微博账号成立 @Girsl-In-AI
+2019-1-6	GIA微博账号成立 @Girls-In-AI
 
 2019-1-8  GIA GitHub stars > 300
