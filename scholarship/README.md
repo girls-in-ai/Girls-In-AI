@@ -29,7 +29,7 @@
 
 ## Donation List 捐赠人名单
 
-目前奖学金一共有 1100 rmb。
+目前奖学金一共有 1300 rmb。
 
 2019-1-4	微博@CodeWithZhangYi	支持金500rmb
 
