@@ -90,3 +90,12 @@ One baby step a day, but never step back.
 从零开始，如果你有什么意见或者建议都可以微博私信提给我或者@Girls-In-AI。
 
 Let's see what we can do.
+
+### Code Visualization:
+
+Here is a cool visualization of the code evolution
+
+ [![Watch the video](https://img.youtube.com/vi/eFcGb-qDVHQ/0.jpg)](https://www.youtube.com/watch?v=eFcGb-qDVHQ)
+
+ [https://www.youtube.com/watch?v=eFcGb-qDVHQ](https://www.youtube.com/watch?v=eFcGb-qDVHQ)
+
