@@ -21,11 +21,11 @@ If you want to be one of Girls In AI, welcome to [CodeWithZhangYi](https://m.wei
 
 
 
-## First Step
+## First Step：ML-Diary
 
 首先介绍下第一期计划：
 
-**人工智障算法工程师养成记**
+[**人工智障算法工程师养成记**](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary)
 
 One baby step a day, but never step back.
 
@@ -42,7 +42,7 @@ One baby step a day, but never step back.
 - 注重学习的顺序性
 - 身处这个行业中，会把分享内容的方向跟着潮流走
 
-从头开始科普，每次更新的内容只有一点点，适合下班饭后或者入睡前敲敲打打试一试。
+从头开始科普，每次更新的内容只有一点点，适合放学下班饭后或者入睡前敲敲打打试一试。详情点击：[第一期：人工智障工程师养成计划](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/README.md)
 
 目的是教到你能自力更生，能自己找资料，能自己知道自己要学什么为止。
 
@@ -77,7 +77,7 @@ One baby step a day, but never step back.
 
 技术无性别，但是社会有强弱。我还是想鼓励更多的女孩子们加入到科技行业，从事社会地位高的有意思的工作。所以2019年的奖学金就是面向女生的。最少的是我投入的500rmb。如果受到支持，会加大奖学金额，上不封顶。
 
-同时，欢迎任何对这个项目的赞助与支持，如有任何兴趣或者疑问请微博私信联系@[CodeWithZhangYi](https://m.weibo.cn/profile/3340707810)。我们将会公开赞助金额超过100rmb的名单。关于奖学金的更多信息，详情点击：[GirlsInAI Scholarship](https://github.com/YZHANG1270/Girls-In-AI/blob/master/scholarship/README.md)
+同时，欢迎任何对这个项目的赞助与支持，如有任何兴趣或者疑问请微博私信联系[@CodeWithZhangYi](https://m.weibo.cn/profile/3340707810)。我们将会公开赞助金额超过100rmb的名单。关于奖学金的更多信息，详情点击：[GirlsInAI Scholarship](https://github.com/YZHANG1270/Girls-In-AI/blob/master/scholarship/README.md)
 
 另外，这个计划所有的课程都免费。对！免费！如果你没钱报外面三五万的水培训班，而你恰好有时间学，欢迎你来！
 
