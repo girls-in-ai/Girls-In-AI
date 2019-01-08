@@ -90,19 +90,3 @@ One baby step a day, but never step back.
 从零开始，如果有懂机器学习的热心小伙伴愿意一起维护的，或者你有什么意见或者建议都可以微博私信提给我或者@Girls-In-AI。
 
 Let's see what we can do.
-
-
-
-## GirlsInAI Log
-
-2019-1-4	GirlsInAI 成立
-
-2019-1-4	GIA 维护者成员=5，她们来自在美国、日本、荷兰、中国的程序媛
-
-2019-1-4	GIA Scholarship = 1000 rmb
-
-2019-1-5	GIA GitHub stars > 100
-
-2019-1-6    GIA GitHub stars > 200
-
-2019-1-6    GIA微博账号成立 @Girsl-In-AI
