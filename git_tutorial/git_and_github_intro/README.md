@@ -182,7 +182,6 @@ SSL的证书选择：（选择默认项）
 然后就自动跳转到这个页面，voila, 这就是你自己在github上的文件夹啦。 
 ![]<img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/git_intro/7.png?raw=true" width="50%" height="50%" />  
 <br><br>
-<br><br>
 
 ## 写在后面：  
 之前说过，我们既可以从github下载到我们电脑，也可以把电脑的东西上传到github。  
