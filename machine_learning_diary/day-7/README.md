@@ -26,6 +26,16 @@
  第二个是字符串string返回的格式str (string), 带引号.  
  🌟type( )可以用来查询变量的格式。  
  
+ 
+ ## 逻辑运算符 
+ 
+ 与布尔表达式联系紧密的还有一个是逻辑运算符  
+ and, or, not 这三种逻辑运算符，没错，就是和英语里面的意思一样.  
+ <img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/ml_day7/5.png?raw=true" width="50%" height="50%" />   
+ **⚠️注意**  
+ 应该这一章都非常好理解，唯一要注意的点是  
+ **任何非零数字，本身都是‘真’ **  
+ <img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/ml_day7/6.png?raw=true" width="50%" height="50%" />   
   <br><br> 
   <br><br>
   今天的内容是不是很简单呢？但不要忘了自己动手写一下哦。Coding就是熟能生巧！
