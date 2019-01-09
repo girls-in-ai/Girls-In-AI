@@ -1,5 +1,4 @@
-# Machine Learning Diary番外工具篇之
-##用Terminal来下载GirlsInAI的学习资料/Windows版本
+# Machine Learning Diary番外工具篇之用Terminal来下载GirlsInAI的学习资料/Windows版本
 
 欢迎大家来到GirlsInAI👏
 
