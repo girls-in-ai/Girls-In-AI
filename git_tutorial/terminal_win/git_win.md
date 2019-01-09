@@ -1,120 +1,14 @@
-欢迎各位来到GirlsInAI~
+# Machine Learning Diary番外工具篇之
+##用Terminal来下载GirlsInAI的学习资料/Windows版本
 
-本文是对之前的关于mac系统下git的介绍和git终端的使用进行基于windows系统下的补充。
+欢迎大家来到GirlsInAI👏
 
-
-
-Step 1. 下载
-
-安装环境：win10，64bit
-
-下载地址：https://git-scm.com/download
-
-![img](http://img.xiumi.us/xmi/ua/139aW/i/f225b8288d096329b25a60f7e930df1b-sz_146323.png)
-
-
-
-Step 2. 安装
-
-开始安装的界面：
-
-![img](http://img.xiumi.us/xmi/ua/139aW/i/826f005671bf8f0d45cbdaf8885616ea-sz_32280.png)
-
-
-
-安装路径：
-
-![img](http://img.xiumi.us/xmi/ua/139aW/i/87475b7cf6d399f7b5b074de91355e41-sz_20897.png)
-
-
-
-由于已安装了git的电脑重新安装时候不再显示安装路径，所以搬运了张图片~
-
-（此图片来自于https://www.jianshu.com/p/414ccd423efc）
-
-路径可以自由决定安装在C盘还是D盘。
-
-
-
-安装组件：
-
-![img](http://img.xiumi.us/xmi/ua/139aW/i/e2faf35e66f1c8158c0ba41f0c312731-sz_30074.png)
-
-
-
-Additional icons--On the Desktop是选择是否在桌面上创建git的图标方便使用。
-
-Use a TrueType font in all console windows是在windows控制台使用TrueType字体。
-
-Check daily for Git for Windows updates是日常检查版本更新。
-
-除了默认选择的几项以外，其余的可以根据自己的需要来选择。
-
-我自己的选择是只选了默认几项，完全可以进行正常操作。
-
-
-
-默认编辑器：
-
-![img](http://img.xiumi.us/xmi/ua/139aW/i/078ebd0d4265bd63b59080f319a7399d-sz_31988.png)
-
-
-
-默认的是Vim编辑器，我个人选择了这一项。
-
-
-
-修改系统环境变量：
-
-![img](http://img.xiumi.us/xmi/ua/139aW/i/5c35c875c0f49c74a69332e615fba277-sz_36098.png)
-
-
-
-第一项：只使用Git Bash，是最安全的。
-
-第二项：使用Git Bash和命令行都可以控制Git。（我默认选择了这一项，因为需要用终端来控制git）
-
-第三项：要修改windows控制台指令，不安全不建议选择。
-
-
-
-SSL的证书选择：（选择默认项）
-
-![img](http://img.xiumi.us/xmi/ua/139aW/i/b5a45c1caa3a6b651b281099a98ed535-sz_26219.png)
-
-
-
-配置行尾结束符：（选择默认项）
-
-![img](http://img.xiumi.us/xmi/ua/139aW/i/e808739f1fc9b75526733850f0355d6b-sz_36794.png)
-
-
-
-配置终端仿真：（选择默认项）
-
-![img](http://img.xiumi.us/xmi/ua/139aW/i/3aa4d2a9e47359ef2a0e8d930d591bb7-sz_36745.png)
-
-
-
-一些其他配置：（选择默认项）
-
-![img](http://img.xiumi.us/xmi/ua/139aW/i/9e0652cfb056f7ea11a75cd94d713937-sz_35557.png)
-
-
-
-终于开始安装啦~~：
-
-![img](http://img.xiumi.us/xmi/ua/139aW/i/dfc8e1a420b0330904a3c30840bc5fda-sz_15506.png)
-
-
-
-是不是还是很简单的，接下来我们尝试用终端和git对一下话~
 
 首先我们先来看一下如何在windows系统下打开终端。
 
 
 
-Step 3.初识终端
+## 初识终端
 
 windows的左下角有一个开始菜单，一个放大镜图标，不要犹豫，点击它~
 
@@ -150,7 +44,7 @@ Step 4. 对话git
 
 
 
-Step 5. 新建/打开文件夹
+## 新建/打开文件夹
 
 在终端中有两个最基本的指令：
 
@@ -164,7 +58,7 @@ cd是进入到某个路径。
 
 
 
-Step 6. 获取一个repo到文件夹中
+## 获取一个repo到文件夹中
 
 当你想从感兴趣的git界面中获取需要的文件时，会发现github界面上clone功能，它会自动帮你创建一个和文件同名的文件夹，里面包含着文件里的所有内容。
 
@@ -187,7 +81,7 @@ Step 6. 获取一个repo到文件夹中
 
 
 
-Step 7. 获取更新内容
+## 获取更新内容
 
 
 
