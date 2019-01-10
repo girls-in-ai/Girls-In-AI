@@ -19,6 +19,10 @@
 To be continued...
 
 ## 番外篇
+
 [工具 - Git & GitHub](https://github.com/YZHANG1270/Girls-In-AI/tree/master/git_tutorial/git_and_github_intro)
+
 [工具 - Terminal/macOS](https://github.com/YZHANG1270/Girls-In-AI/tree/master/git_tutorial/terminal_macOS)
+
 [工具 - Terminal/win](https://github.com/YZHANG1270/Girls-In-AI/tree/master/git_tutorial/terminal_win)
+
