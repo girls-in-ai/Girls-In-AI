@@ -28,7 +28,7 @@ print (message)
 
 下面是我的代码和运行结果：
 
-![](https://github.com/qingdoua/Girls-In-AI/blob/master/others/pics/ml_day2/message.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day3/message.png?raw=true)
 
 记得代码`从上往下一行一行`运行喔！
 
@@ -48,7 +48,7 @@ num = 2019
 print(num)
 ```
 
-![](https://github.com/qingdoua/Girls-In-AI/blob/master/others/pics/ml_day2/num.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day3/newNum.png?raw=true)
 
 看到这一步，你是不是觉得有点太简单了呢？我们创建了一个叫做num的变量，然后呢？
 别着急，下面我们用num来print出一个新的数值吧
@@ -58,7 +58,7 @@ print(newNum)
 ```
 再看看这次print出来的结果，有什么不一样呢？
 
-![](https://github.com/qingdoua/Girls-In-AI/blob/master/others/pics/ml_day2/newNum.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day3/num.png?raw=true)
 
 在上面这一段代码里，我们在num这个变量的基础上，同个`+`这个操作，创建了一个新的变量，在这里这个`+`被称作`operator`, 今天只是简单的介绍，在以后的课程中我们会学到更多的operators.
 
@@ -75,7 +75,7 @@ https://docspy3zh.readthedocs.io/en/latest/reference/datamodel.html
 
 `It's a beautiful day to write some code!`
 
--青豆 @ Seattle, 2019/01/06
+-青豆 @ Seattle
 
 
 

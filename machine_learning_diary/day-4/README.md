@@ -1,91 +1,80 @@
-# Day4：Pip这个好朋友
+# Day4：魔法口令 - “pip install xxx”
 
 欢迎大家回到GirlsInAI~~👏
 
-今天是machine_learning_diary的day-4，这节课我们主要讲解昨天接触过的pip安装。在之后和python打交道的过程中，这个工具会是我们的忠实伴侣。
+今天是machine_learning_diary的day-4，这节课主要介绍如何把别人的代码拿来自己用嘿嘿😜Python是一门伟大的语言，每天有数以万记的工程师在使用python，自然会有聪明又勤奋的工程师写出优雅又有用的代码块供大家使用，对，免费分享，这就是开源的力量！接下来的课程我也会不断带大家一步步感受开源的世界到底有！多！美！好！😍
+
+“偷”别人写好的代码块，只需要一句魔法口令“**pip install xxx**”，这个“xxx”就是别人写好的包package的名字。
 
 
 
 ## **初识pip**
 
-pip是python包管理工具，提供了对python包的查找、下载、安装、卸载的功能。
+pip是python 著名的包管理工具，在python开发过程必不可少。本节带大家了解用pip实现的python包的下载、卸载、查看等详细操作。
 
-在之后的学习中，我们会依赖很多python包，比如我们常常听说的tensorflow，matplotlib等等，这些包的安装和升级包括卸载都需要pip的帮忙来完成。
+打开你的Terminal（终端）：
 
+- Mac 在spotlight搜索“终端”，点击打开
 
+- windows 找到左下角菜单旁边的搜索圆圈输入“cmd”，回车
 
-## **查看当前pip版本**
-
-用昨天教程中的方法打开Terminal（终端）
-
-- 打开Anaconda Prompt
-- 输入“activate python35(这里用你的py35名字替代)”，来启动python35的环境
-- 命令行首字从“(base)”跳为新环境“(python35)”，输入命令“jupyter notebook”，来打开笔记本
-- 从Jupyter右上角“New”点击选择“Terminal”，打开终端
-
-在终端输入pip --version，回车。
-
-![img](http://img.xiumi.us/xmi/ua/139aW/i/4d477b784b8282742d1472ac87e57899-sz_6961.png)
-
-可以看到我电脑中的pip版本是18.1
+  ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day4/001.jpg?raw=true)
 
 
 
-## **用pip下载包**
+就出现了电脑黑客必备工具，黑框框界面，也可以是白的~
 
-当我们想要下载某些包时，需要知道导入包的名称，然后再pip.exe的目录下（如果你现在使用Jupyter进入终端就忽略pip.exe这个问题），在终端中输入pip download (name)，回车。
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day4/002.png?raw=true)
 
-我们以tensorflow为例。（忽略我的蓝色背景，这是直接进入想要的文件夹终端的小tip，之后我会发到微博进行知识补充~）
+别慌，一打开只是没有这些红框框，接下来跟着做：
 
-输入：pip download tensorflow，回车。
-
-![img](http://img.xiumi.us/xmi/ua/139aW/i/e5a1665f2640663be1adfe32d97b0084-sz_176989.png)
-
-![img](http://img.xiumi.us/xmi/ua/139aW/i/f296f4cb96b62fefdb75cc2c76e90972-sz_107524.png)
-
-由截图我们可以看到，当我们想让pip安装tensorflow包时，它自主的去网络上收集需要的文件并下载。第二张截图中能看到最后一行的successfully证明下载成功。
+1. 按照红框1号输入 pip，就会出现这样的界面
+2. 红框2号是 pip可以搭配的命令，比如第一个就是pip install 的“install”
+3. 红框3号是每个命令相关的介绍说明
+4. 下面这个红框是其他可以搭配的命令
 
 
 
-## **用pip来安装包**
+## 查看当前pip版本
 
-我们已经下载了需要的安装包，现在可以使用pip来安装啦~
+好了，咱们来查看当前pip 版本，输入 ```pip --version```
 
-依然是在pip.exe的目录下（或者通过Jupyter），在终端输入pip install (name)，回车。
+然后可以看到跳出的最开始几个字母```pip 9.0.3```就是版本号
 
-继续以tensorflow为例。
-
-输入：pip install tensorflow，回车。
-
-大家可以看到截图中，pip列出了tensorflow需要的安装环境，并一一准备好，最后的提示是说明我的电脑中已经存在tensorflow了。
-
-![img](http://img.xiumi.us/xmi/ua/139aW/i/3fa5af0da2a3b6cd2fc9a290c8ad5ce3-sz_108196.png)
-
-看到这，你已经算是交下pip这个朋友了，但pip的功能远不止于此，以后我们会慢慢介绍。
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day4/003.png?raw=true)
 
 
 
-## pip和conda的区别
+## pip install xxx
 
-conda是另一种包管理工具。
+进入正题，咱们先拿国宝级的包来试一下手，这个包就叫“pandas”，名字就说明了这个包在python届的地位，以后你会经常看见它嘿嘿~
 
-很多同学都听说过pip和conda，但始终不明白这两个工具有什么区别，首先声明，两个工具的区别与我们之后的学习和使用关系并不大，使用哪个都可以。这节课我们只介绍pip，如果对于pip使用失败时也可以自主尝试使用conda。之后我们会具体介绍的~
+1. 输入命令```pip install pandas```
 
-了解两者区别是因为我们对知识有强烈的好奇心！对的就是这样！
+   我是早就下载过的，你们就等待它下载完就可以了，最后会有successful字样。
 
-主要区别有两点：
+2. 双重检查是否下载成功，输入命令```python```就打开python编辑器了
 
-1. conda是主要针对数据领域的，而pip不是。
-2. conda不仅仅包含python包，也包含非python的工具，而pip只针对python。
+3. 在python里输入命令```import pandas```,尝试把这个包import进来，如果直接跳到```>>>```三个箭头让你输下一行命令，就说明你已经把pandas国宝装进你的python啦！
 
-接下来我们看看pip的一些最基本操作吧~
-
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day4/004.png?raw=true)
 
 
-也许在下载，安装的过程中会遇见各种问题，我们会慢慢总结慢慢讲解的。
 
-关于MacOS版本后续补上，有任何疑问都可以来微博/Github找我们哦。
+## pip uninstall xxx
 
-Coding is the new sexy.
+很简单，uninstall的命令就是卸载一个包。大家可以自己尝试做一下。
 
--小鹿 @Miss_Giraffe1229, 2019/01/08
+
+
+## 作业
+
+以后咱们会常见的包有：
+
+- pandas
+- numpy
+- matplotlib
+
+今天教了大家怎么下载国宝pandas，剩下两个自己安装，并且进入python 使用 import xxx命令检查一下。
+
+👩好啦，今天的课程就到这里啦~咱们下次再见~

@@ -14,6 +14,7 @@
   
 因为这一期和machine learning本身关系不大，不过git又是工作中必须要用的东西，所以把一些基本简单的内容放在这里，供大家参考。   
 <br><br>
+
 ## 1.Git & GitHub简介
 简单来说，🌟GitHub 是一个网站 🌟git是一个工具。  
 它们的关系可以理解为 **GitHub是百度网盘网站，Git是百度网盘管家。**  
@@ -26,12 +27,12 @@
 这就是version control (我翻译为版本控制）   
 
 - git允许多人操作  
-比如同事A在马来西亚写了版本三，同事B在中国写了版本四。那么同事A上传之后，同事B也可以在A的基础上继续写代码，然后上传到github上的同一个工作文档。 
-  
+  比如同事A在马来西亚写了版本三，同事B在中国写了版本四。那么同事A上传之后，同事B也可以在A的基础上继续写代码，然后上传到github上的同一个工作文档。 
 如果大家已经注册github账号，那么我们就开始讲git吧！  
 github就是一个网页，比较容易理解  
 git是工具，需要一些时间，但是并不难。跟着我们一块学起来吧。   
 <br><br>
+
 ## 2.安装Git  
 - 检查电脑里是否已经安装Git  
 这里就需要用到一个“看起来酷酷的”小程序，就是我们经常在电脑上看到的一个黑色代码方框（也有可能是白色的）  
@@ -40,7 +41,7 @@ Windows系统里这个方框叫做Command Prompt／MacOS系统里这方框叫做
 ### 2.1 MacOS版本  
 以MacOS为例，在Finder -> Applications -> Utilities找到Terminal.app, 点击打开它。
 <img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/git_intro/IMG_0729.jpg?raw=true" width="50%" height="50%" />  
-  
+
 在命令行输入 `git version`  
 <img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/git_intro/2.png?raw=true" width="50%" height="50%"  align="middle"/>  
 如果你的电脑里面出现了git version x.xx.xx这个东西，那就说明你的电脑里已经装好git啦。
@@ -170,10 +171,6 @@ SSL的证书选择：（选择默认项）
 - 出现这个页面，首先为你的Repository取名字（按你们的喜好来就好了）
 - description是可选项，就是用来简单描述你这个文件夹的作用性质 
 - Private是收费项目，这样其他人不能看到你的文件夹内容
-
-> 来自青豆小姐姐的补充：
-> 就在这篇教程写完的几天内，GitHub宣布了将对所有免费用户也开放private repository的功能喔，下面是官宣截图
-![](https://github.com/qingdoua/Girls-In-AI/blob/master/others/pics/git_intro/freeGitHub.png?raw=true)
 
 - 一般是Public,所以大家可以共享你的资源
 - 下一个选项README, 就是一个文件，你们可以把它想做word文档，用来具体描述这个文件夹的作用性质 (read me读我嘛）可选可不选。选了之后会自动在你的文件夹里面生成这样一个空文档，自己去填写内容。 
