@@ -28,14 +28,6 @@
 
 如果你看不到这个 **Verify account**，可能是需要梯子。
 
-请看到文件夹lantern，把这个exe文件下载在自己电脑上，然后启动，就能顺利翻墙。请注意，流量有限，省着点用。以后上课还要用到的。每个月有500M的翻墙流量。
-
-当然你也可以访问这个网址，直接从那里下载。
-
-https://github.com/getlantern/mirror
-
-
-
 请注意，同时，你上面填写的邮箱会收到一封邮箱验证邮件
 
 ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/sign_up_github/email.png?raw=true)
