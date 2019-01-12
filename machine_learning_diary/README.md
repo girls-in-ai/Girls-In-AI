@@ -6,7 +6,7 @@
 
 - 环境：Windows / MacOS
 - 工具：Anaconda - Jupyter Notebook
-- 语言：Python 3.5
+- 语言：Python3
 
 
 
