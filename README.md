@@ -74,7 +74,7 @@ One baby step a day, but never step back.
 
 社会有强弱，技术无性别。我想鼓励更多的女孩子们加入到科技行业，从事社会地位高的有意思的工作。所以2019年的奖学金就是面向女生的。最少的是我投入的500rmb。如果受到支持，会加大奖学金额，上不封顶。
 
-同时，欢迎任何对这个项目的赞助与支持，如有任何兴趣可以微博私信联系[@CodeWithZhangYi](https://m.weibo.cn/profile/3340707810)。我们将会公开赞助金额超过100rmb的名单。关于奖学金的更多信息点击：[GirlsInAI Scholarship](https://github.com/YZHANG1270/Girls-In-AI/blob/master/scholarship/README.md)
+同时，欢迎任何对这个项目的赞助与支持，如有任何兴趣可以微博私信联系[@CodeWithZhangYi](https://m.weibo.cn/profile/3340707810)。将会公开赞助金额超过100rmb的名单。关于奖学金的更多信息点击：[GirlsInAI Scholarship](https://github.com/YZHANG1270/Girls-In-AI/blob/master/scholarship/README.md)
 
 另外，这个计划所有的课程都免费。对！免费！如果你没钱报外面三五万的水培训班，而你恰好有时间学，欢迎你来！
 
