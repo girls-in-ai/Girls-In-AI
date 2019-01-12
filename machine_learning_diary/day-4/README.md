@@ -72,6 +72,10 @@ pip是python 著名的包管理工具，在python开发过程必不可少。本�
 
 ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day4/004.png?raw=true)
 
+4. 继续输入```exit()```	 将退出python，重新进入到terminal的环境，可以继续下载另一个包。每个包下载完成的最后都会有“Successfully installed”字样，表示下载成功。
+
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day4/005.png?raw=true)
+
 
 
 ## pip uninstall xxx
