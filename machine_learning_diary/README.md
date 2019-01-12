@@ -4,9 +4,9 @@
 
 每一个小日记，用来记录你在机器学习的每一天痕迹。
 
-- 环境：Windows10 / MacOS
+- 环境：Windows / MacOS
 - 工具：Anaconda - Jupyter Notebook
-- 语言：Python
+- 语言：Python 3.5
 
 
 
