@@ -47,7 +47,7 @@ pip是python 著名的包管理工具，在python开发过程必不可少。本�
 
 ## 查看当前pip版本 - MacOS版本
 
-输入pip后双击Tab键，应该会出现pip3。继续输入完整命令```pip3 --version```，就能看见这个pip对应的python版本，如果是python35是正确的，如果不是，可以按照前几节课review一下。
+输入pip后双击Tab键，应该会出现pip3。继续输入完整命令```pip3 --version```，就能看见这个pip对应的python版本，如果是python35是正确的，如果不是，请找到你的python3.5对应的pip口令。这里假设“pip3”就是对应python3.5的pip口令。
 
 **注意！！下面这个是重点：**
 

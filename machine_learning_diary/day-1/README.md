@@ -4,8 +4,6 @@
 
 **[machine_learning_diary](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary)** 是人工智障工程师养成日记系列。每次的课程以日记的形式发布。希望通过每天进步一点点，成为一个AI killer😝
 
-
-
 **今天是day-1，来带大家初识Python。**
 
 
@@ -29,7 +27,9 @@
 
 ## 安装 Anaconda
 
-Windows安装参考：[如何下载安装 Anaconda](https://jingyan.baidu.com/article/eae078275a31851fec5485b8.html)
+#### Windows
+
+安装参考：[如何下载安装 Anaconda](https://jingyan.baidu.com/article/eae078275a31851fec5485b8.html)
 
 下载完毕双击点开exe文件，后续步骤为：
 
@@ -41,6 +41,10 @@ Windows安装参考：[如何下载安装 Anaconda](https://jingyan.baidu.com/ar
 6. 漫长的等待
 7. Installation Complete，点击Next
 8. 点击Finish，完成
+
+#### MacOS
+
+双击安装包一步步默认操作直至下载完成。
 
 
 
@@ -109,9 +113,5 @@ Jupyter Notebook相当于一个笔记本，而python是你记笔记的语言。�
 ## 关闭 Jupyter Notebook
 
 当你把笔记写完后，自然要合上笔记本。在这里也一样，当你敲完代码，你也需要关闭Jupyter Notebook。操作很简单，回到这个黑色小方框，在框内随便点击一下，再 CTRL+C，对就是平时的复制快捷键，按两遍就直接关闭了。![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day1/004.png?raw=true)
-
-
-
-
 
 👩好啦，今天的课程就到这里，咱们下期见~！

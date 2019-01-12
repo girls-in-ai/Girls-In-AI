@@ -4,7 +4,7 @@
 
 双击下载好的安装包，然后无脑下一步就安装好了。
 
-然后应用列表里找到一个叫“终端”的黑黢黢的软件。
+然后应用列表里找到一个叫“终端”的黑色的软件。
 
 ![terminal_screen_shot](https://raw.githubusercontent.com/ohdroid/Girls-In-AI/973d3c380a3eaa0b2402af18dcb790359dc1f575/others/pics/ml_day2_mac_os/terminal_screen_shot.png)
 
@@ -22,17 +22,25 @@
 
 ![check_python3.5](https://raw.githubusercontent.com/ohdroid/Girls-In-AI/master/others/pics/ml_day2_mac_os/check_python3.5.GIF)
 
-这里有个小技巧，就是python命令不用完全一个一个字符打完全，像程序猿这种懒癌晚期的，肯定想了有千奇百怪的偷懒方式，当输入pyth后，双击键盘上的Tap键，奇迹就发生了自动补全了。你也看到我电脑上装了好几个版本的python，所以这里我们需要选择对应的版本执行对应的操作，python3是我这台电脑上对应的python3.5，输入python3后回车，就进入python3.5的程序了，上面内容也能看到，输入exit()后回车是退出python3.5程序。
+这里有个小技巧，就是python命令不用完全一个一个字符打完全，像程序猿这种懒癌晚期的，肯定想了有千奇百怪的偷懒方式，当输入pyth后，双击键盘上的Tab键，奇迹就发生了自动补全了。你也看到我电脑上装了好几个版本的python，**所以这里我们需要选择对应的版本执行对应的操作（请一定理解这句话！）**。
+
+**python3是我这台电脑上对应的python3.5**，输入```python3```后回车，就进入python3.5的程序了。上面内容也能看到，输入exit()后回车是退出python3.5程序。
+
+**注意！你要找到你的python3.5对应的命令是什么**，通常是```python3``` ，也可能是其他，你要自己验证。当你输入那个命令回车后，就会进入python3.5的程序。
 
 接下来通过python去安装jupyter软件，使用命令行的方式和电脑沟通是非常高效快捷的，多接触你会爱上这样的方式（装起X来别个都看不懂）。 
 
-安装步骤：
+安装步骤按照下面动图：
 
-1.确认使用python3.5 对应的pip：pip3 --version
+1.确认**使用python3.5 对应的pip**（pip与python的version一定要对齐！）：**pip3** --version
 
-2.通过pip命令安装jupyter：pip3 install jupyter
+2.看到输出的地址有python3.5字样，注意下面动图的红色箭头，那就表示版本对齐
 
-3.等待下载完成OK就可以了。
+3.如果你的python3.5对应的不是pip3，请找到对应的pip命令，使得pip的version与python3.5统一
+
+4.假设 python3.5 对应的pip版本是“**pip3**”，通过pip命令安装jupyter：**pip3** install jupyter
+
+5.等待下载完成OK就可以了
 
 ```shell
 #注：如果遇到SSL的异常，可以输入以下命令修正，没有遇到就忽略就好
@@ -47,13 +55,13 @@ curl https://bootstrap.pypa.io/get-pip.py | python3
 
 这里需要配置个环境变量，可以让终端认识jupyter这个命令，步骤如下
 
-1.找到jupyter的安装位置：pip3 show jupyter
+1.找到 jupyter的安装位置：**pip3** show jupyter
 
 2.拷贝位置（框中文字后，键盘上Command + C组合键进行复制）
 
 3.打开环境变量配置文件：open ~/.bash_profile
 
-4.键入以下内容：export PIP_INSTALL_PATH=jupyter_location(把这个jupyter_location用复制的安装路径覆盖)
+4.键入以下内容：export PIP_INSTALL_PATH=**jupyter_location**(把这个jupyter_location用复制的安装路径覆盖)
 
 5.应用环境配置文件：source ~/.bash_profile
 

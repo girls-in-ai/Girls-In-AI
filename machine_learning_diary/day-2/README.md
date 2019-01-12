@@ -2,7 +2,7 @@
 
 欢迎大家回到GirlsInAI👏
 
-今天是 [**machine_learning_diary**](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary) 的day-2, 来带大家稍微认识一下Python这一大家子。并且从中选一个版本来学习环境变量的东西。
+今天是 [**machine_learning_diary**](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary) 的day-2, 来带大家稍微认识一下Python这一大家子。python作为一门流行语言在不断迭代更新中，会有很多语言版本。今天学习如何下载一个新的编程环境以及环境配置。
 
 注：建议大家把Chrome设为默认浏览器。
 
@@ -10,11 +10,11 @@
 
 ## 查看当前 Jupyter 的Python版本
 
-按照昨天的方法打开Jupyter Notebook。如果你的默认浏览器是Chrome，会自动弹出页面：
+用Anaconda Navigator打开python35的 Jupyter Notebook。如果你的默认浏览器是Chrome，会自动弹出：
 
 ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day1/006.png?raw=true)
 
-按照day-1的方法点击“New”，点击“Terminal”，中文是“终端”的意思：
+点击“New”，点击“Terminal”，中文是“终端”的意思：
 
 ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/004.jpg?raw=true)
 
@@ -47,11 +47,11 @@
 
 ## Anaconda下载Python 3.5
 
-点击左下角菜单，点击Anaconda文件夹下的Anaconda Navigator：
+Windows点击左下角菜单，点击Anaconda文件夹下的Anaconda Navigator：
 
 ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/001.jpg?raw=true)
 
-点开之后你将看见：
+MacOS点击绿色图标Anaconda Navigator点开之后你将看见：
 
 ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/001.png?raw=true)
 
@@ -63,11 +63,11 @@
 
 
 
-接下来是Windows版本的方法介绍，MacOS的同学们请点击这个链接进行尝试：[点我](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/day-2/Python_for_MAC.md)
+**注意！！接下来是Windows版本的方法介绍，MacOS的同学们请点击这个链接进行尝试：[点我！快点我！](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/day-2/Python_for_MAC.md)**
 
 
 
-## Win10 环境变量配置
+## Windows 环境变量配置
 
 ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/002.png?raw=true)
 
@@ -116,9 +116,9 @@
 
 
 
-## 作业：
+## 作业：检查 Jupyter 的 新环境
 
-### 检查 Jupyter 的 新环境
+### Windows
 
 当新的py3.5版本的Jupyter下载完之后，继续输入命令“jupyter notebook”，就能启动你的新笔记本了：
 
@@ -132,6 +132,16 @@
 
 
 
-关于MacOS版本后续补上。大家有什么不懂的可以第一时间Google一下，也欢迎来跟我们分享讨论今天的内容。
+### MacOS
+
+根据Anaconda Navigator打开python35的 Jupyter Notebook
+
+![](https://github.com/YZHANG1270/Girls-In-AI/raw/master/others/pics/ml_day1/010.jpg?raw=true)
+
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day1/006.png?raw=true)
+
+打开后进入终端，键入命令```python3```查看版本。
+
+大家有什么不懂的可以第一时间Google一下或者提issue，也欢迎来跟@Girls-In-AI分享讨论今天的内容。
 
 👩好啦，今天的课程就到这里，咱们下期见~！

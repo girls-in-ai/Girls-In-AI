@@ -15,7 +15,7 @@
 - 点击python35（这是你给py3.5取的环境名字）右侧的小三角
 - 展开点击最下面的 Jupyter Notebook
 
-打开Jupyter Notebook，输入下面这行代码，我们就创建了一个叫做message的变量。
+打开Jupyter Notebook，输入下面这行代码，我们就创建了一个叫做message的变量。**以后我们都按照这个方式打开Jupyter Notebook。**
 
 ```sh
 message = 'I am learning Python'
@@ -72,7 +72,7 @@ Python一门很特殊的语言，它使用`object(对象)`这个概念来实现�
 https://www.tutorialspoint.com/python3/python_variable_types.htm
 https://docspy3zh.readthedocs.io/en/latest/reference/datamodel.html
 
-好啦今天的课程就到这里了，希望大家学得愉快，也欢迎大家在微博上面和我们互动，下期见~
+好啦今天的课程就到这里了，希望大家学得愉快，也欢迎大家在微博上面和@Girls-In-AI互动，下期见~
 
 `It's a beautiful day to write some code!`
 
