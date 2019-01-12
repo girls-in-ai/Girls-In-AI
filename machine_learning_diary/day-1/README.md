@@ -29,7 +29,7 @@
 
 ## 安装 Anaconda
 
-安装参考：[如何下载安装 Anaconda](https://jingyan.baidu.com/article/eae078275a31851fec5485b8.html)
+Windows安装参考：[如何下载安装 Anaconda](https://jingyan.baidu.com/article/eae078275a31851fec5485b8.html)
 
 下载完毕双击点开exe文件，后续步骤为：
 
@@ -46,22 +46,32 @@
 
 ## 初识 Anaconda
 
-点击电脑左下角菜单，在字母A下面的文件夹就出现了Anaconda以及其他可爱的IDE，比如
+MacOS的同学安装完直接点击绿色圆圈图标打开Anaconda Navigator。
+
+Windows点击电脑左下角菜单，在字母A下面的文件夹就出现了Anaconda以及其他可爱的IDE，比如
 
 - Jupyter（请记住这个“丘比特”💘，以后跟你们天天见！）
-- Spyder（用过R语言或者Matlab的同学应该会很喜欢这个IDE）
+- Spyder（用过R语言或者MATLAB的同学应该会很喜欢这个IDE）
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day1/003.png?raw=true)
+点击菜单栏的绿色图标👇 **Anaconda Navigator**
+
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/001.jpg?raw=true)
+
+打开界面如下：
+
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day1/010.jpg?raw=true)
+
+1. 点击左侧Environment
+2. 看见 base(root)字样，点开右侧小三角
+3. 选择最下面的 Jupyter Notebook
 
 
 
 ## 初识 Jupyter
 
-点击上图的 Jupyter Notebook，弹出一个黑框如下：
+弹出一个黑框如下：
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day1/004.png?raw=true)
-
-复制红线的地址，打开chrome，粘贴地址打开你将看到 Jupyter的样子
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day1/004.png?raw=true)此时会自动弹出下面的页面，如果没有弹出，复制上图红线的地址，打开chrome，粘贴地址打开你将看到 Jupyter的样子
 
 ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day1/006.png?raw=true)
 
@@ -98,7 +108,7 @@ Jupyter Notebook相当于一个笔记本，而python是你记笔记的语言。�
 
 ## 关闭 Jupyter Notebook
 
-当你把笔记写完后，自然要合上笔记本。在这里也一样，当你敲完代码，你也需要关闭Jupyter Notebook。操作很简单，回到这个黑色小方框，在框内随便点击一下，再 Ctr+C，对就是平时的复制快捷键，按两遍就直接关闭了。![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day1/004.png?raw=true)
+当你把笔记写完后，自然要合上笔记本。在这里也一样，当你敲完代码，你也需要关闭Jupyter Notebook。操作很简单，回到这个黑色小方框，在框内随便点击一下，再 CTRL+C，对就是平时的复制快捷键，按两遍就直接关闭了。![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day1/004.png?raw=true)
 
 
 

@@ -14,9 +14,9 @@ pip是python 著名的包管理工具，在python开发过程必不可少。本�
 
 打开你的Terminal（终端）：
 
-- Mac 在spotlight搜索“终端”，点击打开
+- MacOS 在spotlight搜索“终端”，点击打开
 
-- windows 找到左下角菜单旁边的搜索圆圈输入“cmd”，回车
+- Windows 找到左下角菜单旁边的搜索圆圈输入“cmd”，回车
 
   ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day4/001.jpg?raw=true)
 
@@ -28,20 +28,33 @@ pip是python 著名的包管理工具，在python开发过程必不可少。本�
 
 别慌，一打开只是没有这些红框框，接下来跟着做：
 
-1. 按照红框1号输入 pip，就会出现这样的界面
+1. 按照红框1号输入 ```pip```或者```pip --help```，就会出现这样的界面
 2. 红框2号是 pip可以搭配的命令，比如第一个就是pip install 的“install”
 3. 红框3号是每个命令相关的介绍说明
 4. 下面这个红框是其他可以搭配的命令
 
 
 
-## 查看当前pip版本
+## 查看当前pip版本 - Windows版本
 
 好了，咱们来查看当前pip 版本，输入 ```pip --version```
 
-然后可以看到跳出的最开始几个字母```pip 9.0.3```就是版本号
+然后可以看到跳出的最开始几个字母```pip 9.0.3```就是版本号，但是我们的重点是看这个pip对应的python是什么版本，在这行的最后有```python 3.5```字样，就说明对应的是python35。
 
 ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day4/003.png?raw=true)
+
+
+
+## 查看当前pip版本 - MacOS版本
+
+输入pip后双击Tab键，应该会出现pip3。继续输入完整命令```pip3 --version```，就能看见这个pip对应的python版本，如果是python35是正确的，如果不是，可以按照前几节课review一下。
+
+**注意！！下面这个是重点：**
+
+**因此，以下所有的pip相关命令，MacOS的同学都用“pip3”替换“pip”，比如**
+
+- **Windows的同学输入命令```pip install pandas```**
+- **MacOS同学对应的命令是```pip3 install pandas```**
 
 
 

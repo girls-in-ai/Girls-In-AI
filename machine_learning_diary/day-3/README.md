@@ -9,10 +9,11 @@
 话不多说，我们先来通过几个小例子来理解变量这个概念吧！
 
 ### Example 1
-请大家按照Day-2教的方法，打开Anaconda Prompt黑框，输入：
+请大家按照Day-1教的方法，打开Anaconda Navigator：
 
-- activate python35(用你自己的环境名替换) 
-- jupyter notebook
+- 点击左侧Environment
+- 点击python35（这是你给py3.5取的环境名字）右侧的小三角
+- 展开点击最下面的 Jupyter Notebook
 
 打开Jupyter Notebook，输入下面这行代码，我们就创建了一个叫做message的变量。
 

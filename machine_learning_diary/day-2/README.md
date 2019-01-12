@@ -2,7 +2,7 @@
 
 欢迎大家回到GirlsInAI👏
 
-今天是 [**machine_learning_diary**](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary) 的day-2, 来带大家稍微认识一下Python这一大家子。并且从中选一个作为来日方长的伴侣。
+今天是 [**machine_learning_diary**](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary) 的day-2, 来带大家稍微认识一下Python这一大家子。并且从中选一个版本来学习环境变量的东西。
 
 注：建议大家把Chrome设为默认浏览器。
 
@@ -18,7 +18,10 @@
 
 ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/004.jpg?raw=true)
 
-在新弹出来的窗口中输入“python”，就可以看到我这里当前python版本是3.6的。因为我是之前就下载了的。如果是day-1下载的同学们应该是3.7的。
+在新弹出来的窗口中输入“python”，就可以看到我这里当前python版本是3.6的。因为我是之前就下载了的。如果是day-1下载的：
+
+- MacOS的同学应该是2.7的，因为MacOS自带2.7版本的python
+- Windows的同学应该是3.7的，这个3.7是Anaconda自带的python版本
 
 ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/007.png?raw=true)
 
@@ -34,18 +37,15 @@
 2. Py（或py）是python的通用缩写。“.py”是python文件的后缀。就像“.xlsx”是excel文件后缀。
 3. **Py2** 和 **Py3** 是python语言的两大主流。就像繁体字与简体字的关系。
 4. 目前最新的版本是Py3.7。（2019-01-07）
-5. Jupyter 和 Python的版本要一致才能顺利运行。
 
-**接下来的课程我们选用Py3.5**。首先，它属于“py3”行列，py2已经渐渐被淘汰。其次，不要用最新版的语言，容易踩坑。当然，随着时间的流逝，这个也是会变化的。所以今天我们要做两件事：
+**接下来的课程我们推荐用py3.5，建议用py3以上，py3.6或者py3.7都可以。**所以今天我们要尝试做两件事：
 
 - 下载python3.5的环境+配置这个环境
 - 下载对应的 Jupyter Notebook
 
 
 
-
-
-## 下载Python 3.5
+## Anaconda下载Python 3.5
 
 点击左下角菜单，点击Anaconda文件夹下的Anaconda Navigator：
 
@@ -60,6 +60,10 @@
 3. 在弹出的对话框选择“Python 3.5”
 4. 给这个新环境命名，例如我的就很直接叫“python35”。你可以取你喜欢的代号，毕竟以后天天见。
 5. 点击对话框的“Create”，完成Python3.5的下载
+
+
+
+接下来是Windows版本的方法介绍，MacOS的同学们请点击这个链接进行尝试：[点我](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/day-2/Python_for_MAC.md)
 
 
 
@@ -115,8 +119,6 @@
 ## 作业：
 
 ### 检查 Jupyter 的 新环境
-
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/006.png?raw=true)
 
 当新的py3.5版本的Jupyter下载完之后，继续输入命令“jupyter notebook”，就能启动你的新笔记本了：
 
