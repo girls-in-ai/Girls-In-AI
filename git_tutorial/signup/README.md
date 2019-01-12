@@ -4,7 +4,7 @@
 
 整个注册流程是三个步骤。
 
-打开www.github.com 你能看见 
+用**chrome**浏览器打开www.github.com 你能看见 ：
 
 ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/sign_up_github/002.png?raw=true)
 
