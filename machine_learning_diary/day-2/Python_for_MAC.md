@@ -1,8 +1,6 @@
 # Python 环境配置 Mac版本
 
-下载3.5 version:
-
-[下载地址]: https://www.python.org/ftp/python/3.5.2/python-3.5.2-macosx10.6.pkg
+下载3.5 version:[点我下载](https://www.python.org/ftp/python/3.5.2/python-3.5.2-macosx10.6.pkg)
 
 双击下载好的安装包，然后无脑下一步就安装好了。
 
