@@ -12,9 +12,14 @@
 
 ## Donation Rules 捐赠步骤
 
-1. 任何捐助金额，转账给支付宝账号：15657870721
+1. 任何捐助金额，转账给微信二维码：
+
+   <img src="https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/scholarship/wechat.png?raw=true" width = 30% height = 30%/>
+
 2. 将会公开赞助金额超过100rmb的名单
+
 3. 在备注中留下你想在捐助名单出现的名字或者其他说明
+
 4. 同时，你可以选择：
    - [ ] 是否隐藏金额
    - [ ] 是否隐藏姓名
