@@ -8,11 +8,11 @@
 
 然后应用列表里找到一个叫“终端”的黑黢黢的软件。
 
-![terminal_screen_shot](/Users/ohdroid/Documents/girlsInAi/Girls-In-AI/others/pics/ml_day2_mac_os/terminal_screen_shot.png)
+![terminal_screen_shot](https://raw.githubusercontent.com/ohdroid/Girls-In-AI/973d3c380a3eaa0b2402af18dcb790359dc1f575/others/pics/ml_day2_mac_os/terminal_screen_shot.png)
 
 打开后类似长这样
 
-![image-20190112140157064](/Users/ohdroid/Library/Application Support/typora-user-images/image-20190112140157064.png)
+![image-20190112140157064](https://github.com/ohdroid/Girls-In-AI/blob/master/others/pics/ml_day2_mac_os/screen_shot_for_terminal.png?raw=true)
 
 由于是个花里胡哨的程序员，所以这个界面颜色你们的有点不一样，功能是一致的。
 
@@ -43,7 +43,7 @@ curl https://bootstrap.pypa.io/get-pip.py | python3
 
 操作的gif图如下。
 
-![pip_install_jupyter](/Users/ohdroid/Desktop/temp/teach/pip_install_jupyter.gif)
+![pip_install_jupyter](https://raw.githubusercontent.com/ohdroid/Girls-In-AI/973d3c380a3eaa0b2402af18dcb790359dc1f575/others/pics/ml_day2_mac_os/pip_install_jupyter.gif)
 
 安装好过后，需要让终端认识jupyter命令(这个就相当于教狗子握手🤝的过程)
 
@@ -65,6 +65,6 @@ curl https://bootstrap.pypa.io/get-pip.py | python3
 
 老年人手法下的操作流程GIF图
 
-
+![add_jupyter_to_bash_path](https://raw.githubusercontent.com/ohdroid/Girls-In-AI/973d3c380a3eaa0b2402af18dcb790359dc1f575/others/pics/ml_day2_mac_os/add_jupyter_to_bash_path.gif)
 
 好的就酱紫完成了。有任何问题都可以在issue中回复
