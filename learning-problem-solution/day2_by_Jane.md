@@ -1,3 +1,6 @@
+首先表达一下对这个项目发起者的感谢！ [项目链接](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary/day-2)
+
+我的个人网站[janeqinblog.com](http://janeqinblog.com/)的搭建是参考了ZHANGYI的博客[YZHANG](http://codewithzhangyi.com/2018/04/19/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%EF%BC%88%E4%B8%8A%EF%BC%89/) 她同时也是项目的发起者
 这篇文章将用来记录我在学习过程中遇到的问题及解决方案，希望能够帮助到和我遇到相同问题的人
 
 ###  machine_learning_diary/day-2
