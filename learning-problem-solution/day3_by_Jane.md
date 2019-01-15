@@ -70,3 +70,5 @@ del var_a, var_b
 ![](https://img-blog.csdnimg.cn/20190115181515974.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1FpbnFpblRheWxvcg==,size_16,color_FFFFFF,t_70)
 
 其实我们要做的就是， 让计算机能够找到你的pip所在的地方， 也就是设置环境变量。
+
+推荐一个代码可视化的网站， 可以将你建立变量、赋值通过图像描绘。 [点击这个链接](http://pythontutor.com/)
