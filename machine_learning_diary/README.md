@@ -21,6 +21,7 @@
 - [x] 番外：[工具 - Git & GitHub](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/github/git_and_github_intro.md)
 - [x] 番外：[工具 - Terminal/macOS](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/terminal/macos.md)，[Terminal/win](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/terminal/windows.md)
 - [x] Day-4：[pip install xxx](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary/day-4)
+- [x] 番外：[GitHub-issue的正确使用方式](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/github/issue.md)
 - [ ] 番外：Jupyter Notebook 的几种打开方式
 - [ ] Day-5：初识 dataframe
 - [ ] Day-6：数据类型简介
