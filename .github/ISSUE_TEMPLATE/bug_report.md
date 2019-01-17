@@ -13,6 +13,7 @@ A clear and concise description of what the bug is.  简洁有效的说明。
 **为避免无效问题和冗余问题，提问前请确认**
 1. 你确定Google不能解决你的问题
 2. 你确定已有的issue不能解决你的问题
+3. 你确定issue的title按照格式如下：[tutorial-code]：description
 
 **To Reproduce 如何重现问题**
 Steps to reproduce the behavior:  把你遇到的问题的发生步骤替换掉下面的内容：
