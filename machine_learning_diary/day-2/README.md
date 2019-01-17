@@ -76,7 +76,7 @@ MacOS点击绿色图标Anaconda Navigator点开之后你将看见：
 - C:\Users\Yi\Anaconda3\envs\python35
 - C:\Users\Yi\Anaconda3\envs\python35\Scripts
 
-上面这两个地址随便选一个复制，然后看下图：
+上面这两个地址都需要复制然后粘贴，然后看下图：
 
 
 
