@@ -1,2 +1,0 @@
-jupyter的打开方式
-anaconda下载包的方式

@@ -84,7 +84,9 @@ One baby step a day, but never step back.
 
 整个项目长期在GitHub更新，在微博有课程更新通知，公开面向所有人。参与这个课程的方式就是，star点亮这个项目，随时随地打开电脑就能学，欢迎把学习成果在微博分享@Girls-In-AI。在课程中有任何疑问欢迎在Github提issue，有对课程想贡献的朋友欢迎pull request👧
 
-目前这个项目是我挤出空余时间维护，所以更新速度、质量、美观等不能周全。时间和精力都非常有限，从实用性和美观性中，请原谅现在只能往实用性考虑。
+issue相关教程请点击：[GitHub-issue的正确使用方式](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/github/issue.md)
+
+目前这个项目是大家挤出空余时间维护，所以更新速度、质量、美观等不能周全。时间和精力都非常有限，从实用性和美观性中，请原谅现在只能往实用性考虑。
 
 从零开始，如果你有什么意见或者建议都可以微博私信提给我或者@Girls-In-AI。
 
