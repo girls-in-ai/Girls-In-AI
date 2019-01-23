@@ -50,24 +50,30 @@
 
 ## 初识 Anaconda
 
-MacOS的同学安装完直接点击绿色圆圈图标打开Anaconda Navigator。
+### MacOS
 
-Windows点击电脑左下角菜单，在字母A下面的文件夹就出现了Anaconda以及其他可爱的IDE，比如
-
-- Jupyter（请记住这个“丘比特”💘，以后跟你们天天见！）
-- Spyder（用过R语言或者MATLAB的同学应该会很喜欢这个IDE）
-
-点击菜单栏的绿色图标👇 **Anaconda Navigator**
-
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/001.jpg?raw=true)
-
-打开界面如下：
+安装完直接点击绿色圆圈图标打开Anaconda Navigator。打开界面如下：
 
 ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day1/010.jpg?raw=true)
 
 1. 点击左侧Environment
 2. 看见 base(root)字样，点开右侧小三角
 3. 选择最下面的 Jupyter Notebook
+
+### Windows
+
+点击电脑左下角菜单，在字母A下面的文件夹就出现了Anaconda以及其他可爱的IDE，比如
+
+- Jupyter（请记住这个“丘比特”💘，以后跟你们天天见！）
+- Spyder（用过R语言或者MATLAB的同学应该会很喜欢这个IDE）
+
+点击菜单栏的👇 **Jupyter Notebook**
+
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day1/011.jpg?raw=true)
+
+
+
+注意，jupyter notebook打开有多种方式，随便选择哪一种打开即可。如果上面举例的方式不行的话，点击其他参考方式：[Jupyter Notebook的多种打开方式](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/anaconda/jupyter/README.md)
 
 
 

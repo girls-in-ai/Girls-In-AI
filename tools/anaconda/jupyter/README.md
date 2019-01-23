@@ -1,30 +1,43 @@
-# Jupyter Notebook的三种打开方式
+# Jupyter Notebook的多种打开方式
+
+每台电脑都有它自己的脾气，可能是系统环境不一样，可能是其他配置不一样，总有不一样的地方。所以，只要你的电脑能使用其中一个打开jupyter就可以了。
+
+## 从anaconda navigator打开
+
+1. 点击anaconda navigator
+
+2. 打开绿色界面
+
+   ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day1/010.jpg?raw=true)
+
+3. 点击左侧Environment
+
+4. 选择你的python35环境，点开右侧小三角
+
+5. 选择最下面的 Jupyter Notebook
 
 
 
-1. 如果已经配置完，可以直接从终端打开
+## 从终端打开
 
-   1. 打开终端
-   2. 输入命令 ```jupyter notebook ```
+如果你已经上过环境配置那节课，就可以从终端打开jupyter。
 
-2. 可以从anaconda prompt
-
-   1. 打开anaconda prompt
-
-   2. ```activate python35 ```
-
-      这里的python35是我的python3.5的环境名字，以后不再特别说明
-
-   3. 输入命令 ```jupyter notebook ``` 打开笔记本
-
-3. 可以从anaconda navigator
-
-   打开绿色界面，按照之前教的操作打开
+1. 打开终端
+2. 输入命令 ```jupyter notebook ```
 
 
 
+## 从anaconda prompt打开
 
+1. 打开anaconda prompt
 
-不一定每个人都能用三种方式打开，原因不具体展开
+   ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/002.jpg?raw=true)
 
-每台电脑都有它自己的脾气，只要能使用其中一个打开就可以了。
+2. 弹出一个黑框输入```activate python35 ```
+
+   ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/008.png?raw=true)
+
+   这里的python35是我的python3.5的环境名字，你用你的环境名字替代掉，以后不再特别说明。
+
+3. 输入命令 ```jupyter notebook ``` 打开笔记本
+
