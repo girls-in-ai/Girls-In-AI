@@ -24,7 +24,7 @@
 - [x] Day-4：[pip install xxx](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary/day-4)
 - [x] 番外：[GitHub-issue的正确使用方式](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/github/issue.md)
 - [x] Day-5：[数据类型简介](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary/day-5)
-- [ ] Day-6：bool 布尔值
+- [x] Day-6：[bool 布尔值](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/day-6/README.md)
 - [ ] Day-7：字符串
 - [ ] Day-8：数据类型转换
 - [ ] Day-9：if 当初如果
