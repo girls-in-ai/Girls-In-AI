@@ -25,21 +25,18 @@
  第一个是布尔表达式返回的True，不带引号;  
  第二个是字符串string返回的格式str (string), 带引号.  
  🌟type( )可以用来查询变量的格式。  
-<<<<<<< HEAD:machine_learning_diary/day-6/README.md
 
-=======
- 
- 
+
+
  ## 逻辑运算符 
- 
+
  与布尔表达式联系紧密的还有一个是逻辑运算符  
  and, or, not 这三种逻辑运算符，没错，就是和英语里面的意思一样.  
- <img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/ml_day7/5.png?raw=true" width="50%" height="50%" />   
+ <img src="https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day6/5.png?raw=true" width="50%" height="50%" />   
  **⚠️注意**  
  应该这一章都非常好理解，唯一要注意的点是  
  **任何非零数字，本身都是‘真’ **  
- <img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/ml_day7/6.png?raw=true" width="50%" height="50%" />   
->>>>>>> Update README.md:machine_learning_diary/day-7/README.md
-  <br><br> 
-  <br><br>
-  今天的内容是不是很简单呢？但不要忘了自己动手写一下哦。Coding就是熟能生巧！
+ <img src="https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day6/6.png?raw=true" width="50%" height="50%" />   
+
+
+今天的内容是不是很简单呢？但不要忘了自己动手写一下哦。Coding就是熟能生巧！
