@@ -23,7 +23,7 @@
 - [x] 番外：[工具 - Terminal/macOS](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/terminal/macos.md)，[Terminal/win](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/terminal/windows.md)
 - [x] Day-4：[pip install xxx](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary/day-4)
 - [x] 番外：[GitHub-issue的正确使用方式](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/github/issue.md)
-- [ ] Day-5：数据类型简介
+- [x] Day-5：[数据类型简介](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary/day-5)
 - [ ] Day-6：bool 布尔值
 - [ ] Day-7：字符串
 - [ ] Day-8：数据类型转换
