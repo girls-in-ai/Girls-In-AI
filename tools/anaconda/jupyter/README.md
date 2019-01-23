@@ -20,7 +20,7 @@
 
 ## 从终端打开
 
-如果你已经上过环境配置那节课，就可以从终端打开jupyter。
+[如果你已经上过环境配置那节课](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary/day-2)，就可以从终端打开jupyter。
 
 1. 打开终端
 2. 输入命令 ```jupyter notebook ```
@@ -33,11 +33,13 @@
 
    ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/002.jpg?raw=true)
 
-2. 弹出一个黑框输入```activate python35 ```
+2. 如果配置过环境，弹出一个黑框输入```activate python35 ```
 
    ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/008.png?raw=true)
 
-   这里的python35是我的python3.5的环境名字，你用你的环境名字替代掉，以后不再特别说明。
+   这里的python35是我的python3.5的环境名字，你用你的环境名字替代掉，以后不再特别说明；
+
+   如果没有配置过环境，跳过这步。
 
 3. 输入命令 ```jupyter notebook ``` 打开笔记本
 

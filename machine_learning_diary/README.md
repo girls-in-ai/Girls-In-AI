@@ -23,22 +23,20 @@
 - [x] 番外：[工具 - Terminal/macOS](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/terminal/macos.md)，[Terminal/win](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/terminal/windows.md)
 - [x] Day-4：[pip install xxx](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary/day-4)
 - [x] 番外：[GitHub-issue的正确使用方式](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/github/issue.md)
-- [ ] Day-5：初识 dataframe
-- [ ] Day-6：数据类型简介
-- [ ] Day-7：bool 布尔值
-- [ ] 番外：如何看报错Error
-- [ ] 番外：谷歌的正确打开方式：面向谷歌编程
-- [ ] Day-8：字符串
-- [ ] Day-9：数据类型转换
-- [ ] Day-10：if 当初如果
-- [ ] Day-11：while/break/continue
-- [ ] Day-12：for
-- [ ] Day-13：异常处理
-- [ ] Day-14：函数（1）
-- [ ] Day-15：函数（2）
-- [ ] Day-16：list
-- [ ] Day-17：dict
-- [ ] Day-18：读文件/写文件
+- [ ] Day-5：数据类型简介
+- [ ] Day-6：bool 布尔值
+- [ ] Day-7：字符串
+- [ ] Day-8：数据类型转换
+- [ ] Day-9：if 当初如果
+- [ ] Day-10：while/break/continue
+- [ ] Day-11：for
+- [ ] Day-12：异常处理
+- [ ] Day-13：函数（1）
+- [ ] Day-14：函数（2）
+- [ ] Day-15：list
+- [ ] Day-16：dict
+- [ ] Day-17：读文件/写文件
+- [ ] Day-18：初识 dataframe
 - [ ] Day-19：下载文件/保存文件
 - [ ] Day-20：面向对象编程
 - [ ] ......
