@@ -18,6 +18,14 @@
 
 
 
+## 从jupyter notebook打开
+
+windows的菜单栏会自动出现jupyter notebook。如果配置过环境，将会出现各种环境下的jupyter。点击你所需要的环境下的jupyter notebook即可。
+
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/tool_jupyter/jupyter.png?raw=true)
+
+
+
 ## 从终端打开
 
 [如果你已经上过环境配置那节课](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary/day-2)，就可以从终端打开jupyter。
