@@ -1,21 +1,20 @@
-# Day3：Python入门之变量/Variable
+# Variable 变量
 
-欢迎大家回到GirlsInAI👏
+欢迎大家回到 **Machine Learning Diary**👏
 
-今天是 **[machine_learning_diary](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary)** 的day-3, 来带大家学习变量和如何在Python中创建新变量。
+今天来带大家学习变量和如何在Python中创建新变量。
+
+
 
 变量是计算机编程中一个很基础的概念，在计算机程序中，variables are reserved memory locations to store values. 当你新建一个variable的时候，你就在存储空间里预留了一部分位置。在计算机程序中，变量不仅可以是数字，也可以是任意的数据类型。具体的关于数据类型的部分，我们今天会接触到一点点，以后还会有深入展开的教程。
 
 话不多说，我们先来通过几个小例子来理解变量这个概念吧！
 
+
+
 ### Example 1
-请大家按照Day-1教的方法，打开Anaconda Navigator：
 
-- 点击左侧Environment
-- 点击python35（这是你给py3.5取的环境名字）右侧的小三角
-- 展开点击最下面的 Jupyter Notebook
-
-打开Jupyter Notebook，输入下面这行代码，我们就创建了一个叫做message的变量。**以后我们都按照这个方式打开Jupyter Notebook。**
+打开Jupyter Notebook，输入下面这行代码，我们就创建了一个叫做message的变量。
 
 ```sh
 message = 'I am learning Python'
@@ -39,7 +38,10 @@ message = 'I am learning Python'
 ```
 这行代码的时候，Python做了两件事情：1是在内存中创建了一个叫做message的变量和一个‘I am learning Python’的字符串；2是把message这个变量指向‘I am learning Python'这个字符串。
 
+
+
 ### Example 2
+
 我们再来创建另外一个变量
 ```sh
 num = 2019
@@ -67,16 +69,9 @@ print(newNum)
 
 Python一门很特殊的语言，它使用`object(对象)`这个概念来实现对数据的抽象。上面我们创建出的几个变量，`message`, `num`, 以及`newNum`，在Python中都被称作对象。至于对象的类型和其他特性，我们会在以后的课程中慢慢展开。
 
-### Future Reading
-如果你想学习了解更多关于Python变量的知识，可以通过下面几个网站：
-https://www.tutorialspoint.com/python3/python_variable_types.htm
-https://docspy3zh.readthedocs.io/en/latest/reference/datamodel.html
+
 
 好啦今天的课程就到这里了，希望大家学得愉快，也欢迎大家在微博上面和@Girls-In-AI互动，下期见~
-
-`It's a beautiful day to write some code!`
-
--青豆 @ Seattle
 
 
 

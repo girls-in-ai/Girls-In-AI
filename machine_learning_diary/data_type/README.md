@@ -1,8 +1,8 @@
-# Day5：数据类型
+# 数据类型
 
-欢迎大家回到GirlsInAI~~👏
+欢迎大家回到 **Machine Learning Diary**~~👏
 
-今天是machine_learning_diary的day-5，这节课主要带大家熟悉一下计算时将会碰到的各种数据类型。
+今天这节课主要带大家熟悉一下计算时将会碰到的各种数据类型。
 
 打开jupyter，new一个新python文件。
 
@@ -53,9 +53,10 @@
 
 请尝试用python的print打出这两句话：
 
-`I'm a GIAer.`
-
-`I'm learning machine learning by 'python'`
+```
+I'm a GIAer.
+I'm learning machine learning by 'python'.
+```
 
 ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day5/005.png?raw=true)
 

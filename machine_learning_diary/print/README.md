@@ -1,6 +1,6 @@
 # 初识 Python
 
-欢迎大家来到GirlsInAI👏
+欢迎大家来到 **GirlsInAI** 的 **Machine Learning Diary**👏
 
 **[machine_learning_diary](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary)** 是人工智障工程师养成日记系列。每次的课程以日记的形式发布。希望通过每天进步一点点，成为一个AI killer😝
 
