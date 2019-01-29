@@ -16,6 +16,12 @@
 
 2019-1-12	GIA微博follower > 2500
 
+2019-1-29	GIA GitHub stars > 550
+
+2019-1-29	GIA微博follower > 3000
+
+2019-1-29	GIA GitHub重构，并重新review所有课程内容
+
 
 
 Let's see how far we can go! 😎
