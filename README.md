@@ -5,7 +5,7 @@ If you want to be one of Girls In AI, welcome👏
 
 入门帖：[如何成为一名AI算法工程师](https://m.weibo.cn/status/4289240508237933?)
 
-如果你是第一次玩GitHub：[注册GitHub账号教程](https://github.com/YZHANG1270/Girls-In-AI/blob/master/sign_up_github/README.md)
+如果你是第一次玩GitHub：[注册GitHub账号教程](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/github/signup.md)
 
 欢迎关注微博账号 [@Girls-In-AI](https://m.weibo.cn/profile/2650740963)，获取Girls-In-AI的最新内容，一起遇见更多喜欢AI喜欢代码的女孩子🙌~
 
@@ -82,7 +82,7 @@ One baby step a day, but never step back.
 
 ## Join Us
 
-**整个项目长期在GitHub更新，在微博有课程更新通知，公开面向所有人。**GIA所有的课程是动态维护的，不是一写出来就不变了。我有时间就会点进微博的**#GIA#**相关话题和超话看大家的作业情况、暴露的问题，结合Github的issue，会不断补充大家遇到的问题的解决方案。比如第一二节课都是改了又改，而且会不断出现番外篇。这些番外的课程，对于上课顺风顺水的同学可能没什么，对于遇到磕磕碰碰的同学应该会起到不小的帮助。
+整个项目长期在GitHub更新，在微博有课程更新通知，公开面向所有人。GIA所有的课程是动态维护的，不是一写出来就不变了。我有时间就会点进微博的**#GIA#**相关话题和超话看大家的作业情况、暴露的问题，结合Github的issue，会不断补充大家遇到的问题的解决方案。比如第一二节课都是改了又改，而且会不断出现番外篇。这些番外的课程，对于上课顺风顺水的同学可能没什么，对于遇到磕磕碰碰的同学应该会起到不小的帮助。
 
 参与这个课程的方式就是，在GitHub star点亮这个项目，随时随地打开电脑就能学，欢迎把学习成果在微博分享@Girls-In-AI。在课程中有任何疑问欢迎在Github提issue，有对课程想贡献的朋友欢迎pull request👧
 

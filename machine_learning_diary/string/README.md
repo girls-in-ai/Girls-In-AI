@@ -45,7 +45,7 @@
 
 **3. 用’in‘ 找字符**  
 in 是一个布尔运算符，可以比较两个字符串，所以返回值是true/false,很好理解，如  
-<img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/ml_day8/7.png?raw=true" width="50%" height="50%" />  
+<img src="https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/string/7.png?raw=true" width="50%" height="50%" />  
 
 **4. 字符串的一些其它方法method**  
 🌟这里叫方法method，而不是函数function，但都是进行操作。  
@@ -54,26 +54,26 @@ in 是一个布尔运算符，可以比较两个字符串，所以返回值是tr
 len(phone) — function  
 phone.upper() — method   
  - upper/lower/find/strip/startswith  
- <img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/ml_day8/8.png?raw=true" width="80%" height="80%" />   
+ <img src="https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/string/8.png?raw=true" width="80%" height="80%" />   
 
 
 - string.split(seperator, maxsplit) 字符串的切割  
 这个方法和字符串的分割用[ ]和冒号：类似。  
-<img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/ml_day8/9.png?raw=true" width="80%" height="80%" />  
+<img src="https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/string/9.png?raw=true" width="80%" height="80%" />  
 - Split的反义词join, 同义就是把分割开的东西连起来  
-<img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/ml_day8/10.png?raw=true" width="80%" height="80%" />  
+<img src="https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/string/10.png?raw=true" width="80%" height="80%" />  
 
 
 **5. 格式操作符**  
 用百分号%表示，简单来说，就是用其它变量来替代某字符串的一部分  
 看一个例子就懂了  
-<img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/ml_day8/11.png?raw=true" width="50%" height="50%" />  
+<img src="https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/string/11.png?raw=true" width="50%" height="50%" />  
 对于下面一个例子而言，我有多少个苹果这个‘多少个’是可以随时切换随时被替代的，那我就用格式操作符号来表示。  
 一个完整的例子需要两个格式操作符，一个在字符串里（后面紧跟格式！待会讲），一个在字符串外（后面跟变量）  
 
 第一个字符串紧跟的格式是固定的  
 🌟例如 %d —— 格式化整数，%g—— 格式化浮点数（带小数部分）, %s —— 格式化字符串  
-<img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/ml_day8/12.png?raw=true" width="80%" height="80%" />  
+<img src="https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/string/12.png?raw=true" width="80%" height="80%" />  
 ⚠️百分号%对int这个数据格式而言，是模运算符； 但对字符串而言，%是格式操作符  
 
 
