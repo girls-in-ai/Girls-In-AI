@@ -24,9 +24,9 @@
 
 ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/tools/github/signup/step1.png?raw=true)
 
-摆正通过后点击这个**[Create an account]**
+摆正通过后点击这个 **Create an account** 
 
-如果你看不到这个 **Verify account**，可能是需要梯子。
+如果你看不到这个 **Verify account**，可能是需要梯子，或者切换浏览器。
 
 请注意，同时，你上面填写的邮箱会收到一封邮箱验证邮件
 
@@ -64,5 +64,4 @@ OK啦，大功告成！
 
 https://github.com/YZHANG1270/Girls-In-AI
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/sign_up_github/star.png?raw=true)
-
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/tools/github/signup/star.png?raw=true)

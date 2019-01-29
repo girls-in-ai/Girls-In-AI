@@ -4,7 +4,7 @@
 
 **[machine_learning_diary](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary)** 是人工智障工程师养成日记系列。每次的课程以日记的形式发布。希望通过每天进步一点点，成为一个AI killer😝
 
-**今天是day-1，来带大家初识Python。**
+**今天是day-1，来带大家认识一下Python。**
 
 
 
@@ -73,7 +73,7 @@
 
 
 
-注意，jupyter notebook打开有多种方式，随便选择哪一种打开即可。如果上面举例的方式不行的话，点击其他参考方式：[Jupyter Notebook的多种打开方式](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/anaconda/jupyter/README.md)
+注意，jupyter notebook打开有多种方式，随便选择哪一种打开即可。如果上面举例的方式不行的话，点击其他参考方式：[Jupyter Notebook的多种打开方式](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/anaconda/jupyter/start.md)
 
 
 

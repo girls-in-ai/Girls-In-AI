@@ -1,6 +1,6 @@
 # Jupyter Notebook的多种打开方式
 
-每台电脑都有它自己的脾气，可能是系统环境不一样，可能是其他配置不一样，总有不一样的地方。所以，只要你的电脑能使用其中一个打开jupyter就可以了。
+每台电脑都有它自己的脾气，可能是系统环境不一样，可能是其他配置不一样，所以，只要你的电脑能使用其中一个方法打开jupyter就可以了。
 
 ## 从anaconda navigator打开
 
@@ -27,8 +27,6 @@ windows的菜单栏会自动出现jupyter notebook。如果配置过环境，将
 
 
 ## 从终端打开
-
-[如果你已经上过环境配置那节课](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary/day-2)，就可以从终端打开jupyter。
 
 1. 打开终端
 2. 输入命令 ```jupyter notebook ```

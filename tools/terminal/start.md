@@ -1,8 +1,6 @@
 # 初识 终端
 
-欢迎大家来到GirlsInAI👏
-
-这篇主要介绍如何打开自己系统下的终端。
+这篇主要介绍如何打开 MacOS 和 Win 系统下的终端。
 
 终端是一种用于执行系统命令行指令的程序。在MacOS系统里，这个终端程序被称作Terminal，在Windows系统里，常用的终端程序是Command Prompt。
 
@@ -26,5 +24,5 @@
 
 ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/import/001.jpg?raw=true)
 
-就出现了电脑黑客必备工具，黑框框界面，就是你的终端程序。
+就出现了电脑黑客必备工具，黑框框界面，就是你的终端窗口。
 

@@ -40,7 +40,7 @@ One baby step a day, but never step back.
 - 注重学习的顺序性
 - 身处这个行业中，会把分享内容的方向跟着潮流走
 
-我会从头开始科普，每次更新的内容只有一点点，适合放学下班饭后入睡前敲敲打打试一试。更多信息点击：[第一期：人工智障工程师养成计划](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/README.md)。
+我会从头开始科普，每次更新的内容只有一点点，适合放学下班饭后入睡前敲敲打打试一试。上课传送门：[第一期：人工智障工程师养成计划](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/README.md)。
 
 目的是教到你能自力更生，能自己找资料，能自己知道自己要学什么为止。
 
