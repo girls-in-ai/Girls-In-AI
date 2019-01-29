@@ -50,4 +50,3 @@ windows的菜单栏会自动出现jupyter notebook。如果配置过环境，将
    如果没有配置过环境，跳过这步。
 
 3. 输入命令 ```jupyter notebook ``` 打开笔记本
-

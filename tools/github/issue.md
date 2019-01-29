@@ -22,7 +22,7 @@
 
 
 
-### 1. Bug report：描述你在学习中遇到的问题
+### 模板1. Bug report：描述你在学习中遇到的问题
 
 **为避免无效问题和冗余问题，提问前请确认**
 
@@ -59,7 +59,7 @@ Add any other context about the problem here. 添加你认为有必要的内容�
 
 
 
-### 2. Feature request：帮助维护教程的有效性
+### 模板2. Feature request：帮助维护教程的有效性
 
 **Is your feature request related to a problem? Please describe. 描述对应的教程内容**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
@@ -176,9 +176,7 @@ Add any other context or screenshots about the feature request here. 添加你�
 
 ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/issue/006.png?raw=true)
 
-甚至你想参与到写课程里来，你可以使用GitHub的pull request功能。这个教程马上推出~
+甚至你想参与到写课程里来，你可以使用GitHub的pull request功能。
 
-👩好啦，今天的课程就到这里啦！~
-
-GitHub于我而言是个很神圣的地方。而且GitHub还有很多礼仪需要学习，咱们未来再一步步探索。我们下次再见~
+GitHub于我而言是个很神圣的地方。而且GitHub还有很多礼仪需要学习，未来再一步步探索。我们下次再见~
 
