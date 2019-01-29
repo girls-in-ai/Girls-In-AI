@@ -24,7 +24,7 @@
 
 找到左下角菜单旁边的搜索圆圈输入“cmd”，回车
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day4/001.jpg?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/import/001.jpg?raw=true)
 
 就出现了电脑黑客必备工具，黑框框界面，就是你的终端程序。
 

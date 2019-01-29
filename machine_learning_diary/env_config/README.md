@@ -12,18 +12,18 @@
 
 用Anaconda Navigator打开python35的 Jupyter Notebook。如果你的默认浏览器是Chrome，会自动弹出：
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day1/006.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/print/006.png?raw=true)
 
 点击“New”，点击“Terminal”，中文是“终端”的意思：
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/004.jpg?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/env_config/win/004.jpg?raw=true)
 
 在新弹出来的窗口中输入“python”，就可以看到我这里当前python版本是3.6的。因为我是之前就下载了的。如果是day-1下载的：
 
 - MacOS的同学应该是2.7的，因为MacOS自带2.7版本的python
 - Windows的同学应该是3.7的，这个3.7是Anaconda自带的python版本
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/007.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/env_config/win/007.png?raw=true)
 
 
 
@@ -49,11 +49,11 @@
 
 Windows点击左下角菜单，点击Anaconda文件夹下的Anaconda Navigator：
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/001.jpg?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/env_config/win/001.jpg?raw=true)
 
 MacOS点击绿色图标Anaconda Navigator点开之后你将看见：
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/001.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/env_config/win/001.png?raw=true)
 
 1. 点击左侧菜单栏的“Environment”
 2. 点击下方的“Create”
@@ -69,7 +69,7 @@ MacOS点击绿色图标Anaconda Navigator点开之后你将看见：
 
 ## Windows 环境变量配置
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/002.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/env_config/win/002.png?raw=true)
 
 找到你的python3.5下载到的文件夹，下图为我py35的地址：
 
@@ -80,7 +80,7 @@ MacOS点击绿色图标Anaconda Navigator点开之后你将看见：
 
 
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/003.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/env_config/win/003.png?raw=true)
 
 1. 在“此电脑”右击选择“属性”，弹出控制面板对话框
 2. 点击“高级系统设置”
@@ -102,11 +102,11 @@ MacOS点击绿色图标Anaconda Navigator点开之后你将看见：
 
 点击左下角菜单，点击Anaconda文件夹下的Anaconda Prompt：
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/002.jpg?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/env_config/win/002.jpg?raw=true)
 
 弹出一个黑框：
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/006.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/env_config/win/006.png?raw=true)
 
 1. 输入“activate python35”，启动新环境。这里的“python35”是我取的新环境名字，你填入你取的名字。
 2. 输入“pip install jupyter notebook”，进行“丘比特💘”笔记本下载。
@@ -122,11 +122,11 @@ MacOS点击绿色图标Anaconda Navigator点开之后你将看见：
 
 当新的py3.5版本的Jupyter下载完之后，继续输入命令“jupyter notebook”，就能启动你的新笔记本了：
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/008.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/env_config/win/008.png?raw=true)
 
 此时，仍然会弹出一个页面：
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day1/006.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/print/006.png?raw=true)
 
 这时候你再点击“New”下面的“Terminal”，输入“python”，看看到底变成了什么版本~~🙌
 
@@ -136,9 +136,9 @@ MacOS点击绿色图标Anaconda Navigator点开之后你将看见：
 
 根据Anaconda Navigator打开python35的 Jupyter Notebook
 
-![](https://github.com/YZHANG1270/Girls-In-AI/raw/master/others/pics/ml_day1/010.jpg?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/print/010.jpg?raw=true)
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day1/006.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/print/006.png?raw=true)
 
 打开后进入终端，键入命令```python3```查看版本。
 

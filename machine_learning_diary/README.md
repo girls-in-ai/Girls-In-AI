@@ -14,16 +14,16 @@
 
 ## 课程列表
 
-- [x] Day-0：注册GitHub，star点亮Girls-In-AI
-- [x] Day-1：初识 Python
-- [x] 番外：GitHub-Issue：正确的提问方式
-- [x] 番外：Terminal的打开方式
-- [x] Day-2：Python 配置环境变量
-- [x] 番外：Jupyter Notebook 的多种打开方式
-- [x] Day-3：数据类型简介
-- [x] Day-4：variable 变量
-- [x] Day-5：bool 布尔值
-- [x] Day-6：string 字符串
+- [x] Day-0：[注册GitHub，star点亮Girls-In-AI](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/github/signup.md)
+- [x] Day-1：[初识 Python](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/print/README.md)
+- [x] 番外：[GitHub-Issue：正确的提问方式](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/github/issue.md)
+- [x] 番外：[Terminal的打开方式](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/terminal/start.md)
+- [x] Day-2：[Python 配置环境变量](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary/env_config)
+- [x] 番外：[Jupyter Notebook 的多种打开方式](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/anaconda/jupyter/start.md)
+- [x] Day-3：[数据类型简介](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary/data_type)
+- [x] Day-4：[variable 变量](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary/variable)
+- [x] Day-5：[bool 布尔值](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary/bool)
+- [x] Day-6：[string 字符串](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary/string)
 - [ ] Day-7：数据类型转换
 - [ ] Day-8：list
 - [ ] Day-9：dict

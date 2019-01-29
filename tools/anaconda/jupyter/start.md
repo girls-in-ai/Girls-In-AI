@@ -8,7 +8,7 @@
 
 2. 打开绿色界面
 
-   ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day1/010.jpg?raw=true)
+   ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/print/010.jpg?raw=true)
 
 3. 点击左侧Environment
 
@@ -22,7 +22,7 @@
 
 windows的菜单栏会自动出现jupyter notebook。如果配置过环境，将会出现各种环境下的jupyter。点击你所需要的环境下的jupyter notebook即可。
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/tool_jupyter/jupyter.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/tools/anaconda/jupyter/jupyter.png?raw=true)
 
 
 
@@ -39,11 +39,11 @@ windows的菜单栏会自动出现jupyter notebook。如果配置过环境，将
 
 1. 打开anaconda prompt
 
-   ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/002.jpg?raw=true)
+   ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/env_config/win/002.jpg?raw=true)
 
 2. 如果配置过环境，弹出一个黑框输入```activate python35 ```
 
-   ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day2/008.png?raw=true)
+   ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/env_config/win/008.png?raw=true)
 
    这里的python35是我的python3.5的环境名字，你用你的环境名字替代掉，以后不再特别说明；
 

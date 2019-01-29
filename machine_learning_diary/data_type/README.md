@@ -15,7 +15,7 @@
 - 整数 int
 - 小数（浮点数）float
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day5/001.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/data_type/001.png?raw=true)
 
 大家可以参照上面图片的计算公式随便尝试，python的计算都是非常直观的，与常识相符。
 
@@ -29,11 +29,11 @@
 
 文字的出现是必须随身带引号的```'单引号' ，"双引号"``` ，单双引号都可以，只要是英文格式的。这里举个字符相加的例子：
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day5/002.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/data_type/002.png?raw=true)
 
 谨记，使用字符串时，一定带上引号，否则只能做变量处理。当你直接输入字符却不带引号时，会报错。把引号加上去，就不会了。
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day5/003.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/data_type/003.png?raw=true)
 
 
 
@@ -41,7 +41,7 @@
 
 如果是字符串里面需要包含单双引号怎么办，比如```I'm a GIAer``` 这个句子里就有个单引号。这里可以用转义字符```\``` 来标识。
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day5/004.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/data_type/004.png?raw=true)
 
 第一句里面没有使用转义字符```\``` 就会报错。第二局加上就ok了~
 
@@ -58,7 +58,7 @@ I'm a GIAer.
 I'm learning machine learning by 'python'.
 ```
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day5/005.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/data_type/005.png?raw=true)
 
 
 
@@ -75,7 +75,7 @@ I'm learning machine learning by 'python'.
 
 在python里可以直接输入做计算，也可以用```and``` ，```or``` 等做运算。后面的课程还会有详细介绍。
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day5/006.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/data_type/006.png?raw=true)
 
 
 

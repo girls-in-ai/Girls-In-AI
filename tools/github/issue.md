@@ -93,7 +93,7 @@ Add any other context or screenshots about the feature request here. 添加你�
 
 每次提issue的时候，写完问题，你还可以对这个问题进行打标签。[打开Girls-In-AI项目的issue](https://github.com/YZHANG1270/Girls-In-AI/issues)，你可以看到：
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/issue/001.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/tools/github/issue/001.png?raw=true)
 
 
 
@@ -101,7 +101,7 @@ Add any other context or screenshots about the feature request here. 添加你�
 2. 点击Labels
 3. 第三个框是我刚提的issue
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/issue/002.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/tools/github/issue/002.png?raw=true)
 
 可以看见左边一列的labels，下面红色的label是我刚刚为【Machine-Learning-Diary】建的，以后跟这个项目相关的issue可以打上这个标签，方便查找。当然后续还会继续增加合适的label。
 
@@ -126,7 +126,7 @@ Add any other context or screenshots about the feature request here. 添加你�
 
 初步了解issue后，下面介绍如何提issue。首先你要确认你的问题Google无法解答，因为Google还是作为首推的解答平台。
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/issue/003.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/tools/github/issue/003.png?raw=true)
 
 1. 点击issue
 2. 查看历史上的issue能否解决你的问题，进行issue搜索
@@ -134,13 +134,13 @@ Add any other context or screenshots about the feature request here. 添加你�
 
 接下来你将看见我在上面提到过的模板：
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/issue/004.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/tools/github/issue/004.png?raw=true)
 
 你要明确你是在学习过程中遇到了问题，还是觉得对于教程的内容想做贡献。在这里假设你是在学习过程中遇到了bug，点击【Bug report】的【Get started】，你将看到：
 
 
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/issue/005.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/tools/github/issue/005.png?raw=true)
 
 1. 填写issue的title，title格式请按照：[tutorial-code] description
 
@@ -174,7 +174,7 @@ Add any other context or screenshots about the feature request here. 添加你�
 3. 在框内填写你的答案
 4. Comment提交
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/issue/006.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/tools/github/issue/006.png?raw=true)
 
 甚至你想参与到写课程里来，你可以使用GitHub的pull request功能。
 

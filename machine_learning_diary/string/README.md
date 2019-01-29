@@ -17,29 +17,31 @@
 2.字符串就是字符的序列  
 我们说的是序列，那就代表字符串是有顺序的！这里很重要  
 比如我们来设定一个变量phone，给它赋值一个‘apple’  
-<img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/ml_day8/1.png?raw=true" width="80%" height="80%" /> 
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/string/1.png?raw=true)
 
 3.字符串不可改变
 即字符串里的每一个字符都不可以被替代  
-<img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/ml_day8/2.png?raw=true" width="80%" height="80%" />  
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/string/2.png?raw=true)
+
+
 
 
 ## 字符串的玩法  
 即字符串的相关函数function和方法method，可以理解为操作play with字符串的方法  
 **1.len( ) 返回字符串的长度，即字符串有多少个字符**  
-<img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/ml_day8/3.png?raw=true" width="30%" height="30%" /> 
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/string/3.png?raw=true)
 ‘Apple’这个字符串一共有5个字符，’a’, ‘p’, ‘p’, ‘l’, ‘e’  
 我们可以在这个函数上加一些玩法  
-<img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/ml_day8/4.png?raw=true" width="80%" height="80%" />  
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/string/4.png?raw=true)
 
 **2.分割字符串**  
 利用‘找字符’的方法‘[ ]’ 我们不仅可以找单独一个字符，我们也可以提取‘一部分’的字符串  
 例如我们想提取’apple’里面的最后三个字符’ple’   
-<img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/ml_day8/5.png?raw=true" width="50%" height="50%" />  
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/string/5.png?raw=true)
 🌟你们看是不是有点奇怪，为什么我提取e的时候用的是length, 而不是length -1？  
 分割字符串的时候冒号‘:’只包括第一个字符，而不包括最后一个字符，所以为了提取出最后一个，我们要比平常的索引多一位！  
 🌟 一些可以注意的例子  
-<img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/ml_day8/6.png?raw=true" width="80%" height="80%" />   
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/string/6.png?raw=true)
 
 **3. 用’in‘ 找字符**  
 in 是一个布尔运算符，可以比较两个字符串，所以返回值是true/false,很好理解，如  

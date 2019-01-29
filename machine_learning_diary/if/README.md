@@ -17,13 +17,13 @@
 
 格式很简单就是：如果（满足这个条件), 就（怎么怎么样）
 
-![](https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/ml_day10/1.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/if/1.png?raw=true)
 
 
 
 ## if else 分支执行  
 如果（满足这个条件), 就（怎么怎么样）， 否则就（怎么怎么样） 
-<img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/ml_day10/2.png?raw=true" width="100%" height="100%" /> 
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/if/2.png?raw=true) 
 
 
 
@@ -32,7 +32,9 @@
 如果存在两个以上的条件，就需要多个if了。 
 如果，就；如果，就；如果，就······   
 
-第二个如果的时候就用elif, 即else if的缩写  <img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/ml_day10/3.png?raw=true" width="100%" height="100%" />   
+第二个如果的时候就用elif, 即else if的缩写
+
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/if/3.png?raw=true)
 
 
 
@@ -40,4 +42,4 @@
 
 这个就是一个条件嵌套到另一个条件语句中 
 如果，就（如果，就）； 否则就 
-<img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/ml_day10/4.png?raw=true" width="100%" height="100%" /> 
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/if/4.png?raw=true) 

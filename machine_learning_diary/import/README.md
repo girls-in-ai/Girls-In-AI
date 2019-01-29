@@ -18,13 +18,13 @@ pip是python 著名的包管理工具，在python开发过程必不可少。本�
 
 - Windows 找到左下角菜单旁边的搜索圆圈输入“cmd”，回车
 
-  ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day4/001.jpg?raw=true)
+  ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/import/001.jpg?raw=true)
 
 
 
 就出现了电脑黑客必备工具，黑框框界面，也可以是白的~
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day4/002.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/import/002.png?raw=true)
 
 别慌，一打开只是没有这些红框框，接下来跟着做：
 
@@ -41,7 +41,7 @@ pip是python 著名的包管理工具，在python开发过程必不可少。本�
 
 然后可以看到跳出的最开始几个字母```pip 9.0.3```就是版本号，但是我们的重点是看这个pip对应的python是什么版本，在这行的最后有```python 3.5```字样，就说明对应的是python35。
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day4/003.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/import/003.png?raw=true)
 
 
 
@@ -70,11 +70,11 @@ pip是python 著名的包管理工具，在python开发过程必不可少。本�
 
 3. 在python里输入命令```import pandas```,尝试把这个包import进来，如果直接跳到```>>>```三个箭头让你输下一行命令，就说明你已经把pandas国宝装进你的python啦！
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day4/004.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/import/004.png?raw=true)
 
 4. 继续输入```exit()```	 将退出python，重新进入到terminal的环境，可以继续下载另一个包。每个包下载完成的最后都会有“Successfully installed”字样，表示下载成功。
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_day4/005.png?raw=true)
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/import/005.png?raw=true)
 
 
 
