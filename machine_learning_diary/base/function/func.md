@@ -91,7 +91,31 @@ GIA('GirlsRunTheWorld') # 我把heart赋值为 'GirlsRunTheWorld'
 output：
 
 ```
-
+                                                          
+                                                            
+                unTheWorl           eWorldGir               
+            lsRunTheWorldGirl   nTheWorldGirlsRun           
+          rlsRunTheWorldGirlsRunTheWorldGirlsRunThe         
+         rlsRunTheWorldGirlsRunTheWorldGirlsRunTheWo        
+        rlsRunTheWorldGirlsRunTheWorldGirlsRunTheWorl       
+        lsRunTheWorldGirlsRunTheWorldGirlsRunTheWorld       
+        sRunTheWorldGirlsRunTheWorldGirlsRunTheWorldG       
+        RunTheWorldGirlsRunTheWorldGirlsRunTheWorldGi       
+        unTheWorldGirlsRunTheWorldGirlsRunTheWorldGir       
+        nTheWorldGirlsRunTheWorldGirlsRunTheWorldGirl       
+         heWorldGirlsRunTheWorldGirlsRunTheWorldGirl        
+          WorldGirlsRunTheWorldGirlsRunTheWorldGirl         
+          orldGirlsRunTheWorldGirlsRunTheWorldGirls         
+            dGirlsRunTheWorldGirlsRunTheWorldGirl           
+             irlsRunTheWorldGirlsRunTheWorldGirl            
+              lsRunTheWorldGirlsRunTheWorldGirl             
+                unTheWorldGirlsRunTheWorldGir               
+                  heWorldGirlsRunTheWorldGi                 
+                    orldGirlsRunTheWorldG                   
+                       GirlsRunTheWorl                      
+                          sRunTheWo                         
+                             The                            
+                              e                          
 ```
 
 👩好啦，今天的课程就到这里啦！咱们下次见！~
