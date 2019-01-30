@@ -29,7 +29,10 @@
 因为n在每次一循环的时候，值都会改变，所以被称为“迭代变量”； 
 如果没有迭代变量，循环会永远进行下去，导致无限循环。 
 
+
+
 ## 无限循环 & break    
+
 我们来看一下无限循环的例子和怎么打断无限循环。
 <img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/ml_day11/3.png?raw=true" width="100%" height="100%" />
 
@@ -37,15 +40,18 @@
 那怎么打断这种无限循环呢？ 用break  
 
 Break就是打断，破坏的意思 
-<img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/ml_day11/4.png?raw=true" width="90%" height="90%" />  
+<img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/ml_day11/4.png?raw=true" width="100%" height="100%" />  
 
-图片里面体现不出来（可以自己敲一下代码），上面返回的四句话，只有第一句和第三句是我自己输入的，第二句和第四句是它自动返回的（我们刚刚的代码）  
+图片里面体现不出来（可以自己敲一下代码），上面返回的四句话，只有第一句和第三句是我自己输入的，第二句和第四句是它自动返回的（我们刚刚的代码） 
 ⚠️ input()这个返回的数据格式都是字符串，尽管你可能输入的是一个数字  
 
+
+
 ## continue  
+
 还有一种情况，如果在循环中，你想结束当前的迭代，立刻进行下一次迭代，那么就可以用continue （而不用完成当前迭代） 
 什么意思呢？
-<img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/ml_day11/4.png?raw=true" width="80%" height="80%" />
+<img src="https://github.com/yanan1995/Girls-In-AI/blob/master/others/pics/ml_day11/5.png?raw=true" width="100%" height="100%" />
 
 其中第一行/第二行/第四行/第五行是我输入的，其它是自动返回的 
 

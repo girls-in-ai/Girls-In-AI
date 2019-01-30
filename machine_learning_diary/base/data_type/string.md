@@ -12,12 +12,11 @@
 
 
 ## 字符串的性质  
-#### **字符串用引号表示 例如’water’**  
+字符串用引号表示 例如’water’ 。
 
 #### **字符串就是字符的序列**
 
-我们说的是序列，那就代表字符串是有顺序的！这里很重要 
-比如我们来设定一个变量phone，给它赋值一个‘apple’
+我们说的是序列，那就代表字符串是有顺序的！这里很重要。比如我们来设定一个变量phone，给它赋值一个‘apple’
 ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/string/1.png?raw=true)
 
 #### **字符串不可改变**
@@ -63,9 +62,7 @@ in 是一个布尔运算符，可以比较两个字符串，所以返回值是tr
 
 #### 其它方法method 
 
-这里叫方法method，而不是函数function，但都是进行操作。
-区别是method是使用句点作为分割，在变量名后跟上方法名，而不是在函数function括号里面加上变量名 
-对比一下：
+这里叫方法method，而不是函数function，但都是进行操作。区别是method是使用句点作为分割，在变量名后跟上方法名，而不是在函数function括号里面加上变量名。对比一下：
 len(phone) — function 
 phone.upper() — method   
 
