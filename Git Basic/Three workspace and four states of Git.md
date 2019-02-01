@@ -165,11 +165,13 @@ Git 支持多种数据传输协议。 上面的例子使用的是 https:// 协�
 这个算是版本控制最常用的功能了， 就是记录你的每一次修改。 你还可以为每一次修改添加必要的批注， 每一次的修改都会以快照的形式记录， 所以随时可以恢复成上一状态。
 
 再回顾上面的图，使用 Git 时文件的生命周期如下：
+
 ![The life cycle of Git's file](https://img-blog.csdnimg.cn/20190131180007227.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1FpbnFpblRheWxvcg==,size_16,color_FFFFFF,t_70)
+
 下面详细介绍一下这几个Git中的文件状态：
 
-Remember that each file in your **working directory** can be in one of two states:  **tracked or untracked.**
-请记住，你工作目录下的每一个文件都不外乎这两种状态：**已跟踪或未跟踪。*
+Remember that each file in your **working directory** can be in one of two states:  **tracked or untracked.**                                     
+请记住，你工作目录下的每一个文件都不外乎这两种状态：**已跟踪或未跟踪。**                                                                        
 - Tracked files are files that were in the last snapshot; they can be unmodified, modified, or staged. In short, tracked files are files that Git knows about.                                                                                                                     
 **已跟踪（Tracked ）**的文件是指那些*被纳入了版本控制的文件，在上一次快照中有它们的记录*，在工作一段时间后，它们的状态可能处于未修改（unmodified），已修改（modified）或已放入暂存区（staged）。                                                                                          
 - Untracked files are everything else — any files in your working directory that were not in your last snapshot and are not in your staging area. When you first clone a repository, all of your files will be tracked and unmodified because Git just checked them out and you haven’t edited anything.                                                                                                                 
