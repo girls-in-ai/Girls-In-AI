@@ -198,11 +198,15 @@ $ git status
 没有要提交的内容， working tree(工作目录)很干净。
 
 现在我们新建一个文件， 它就是未被跟踪的（untracked）
+
 ![](https://img-blog.csdnimg.cn/20190131181810780.png)
+
 熟悉的问题， 看来我之前出现的问题就是在这里。 我新添加的文件仅仅在我本地的工作目录上（working dictionary）， 但它要被提交到git directory才可以被Git控制。
 
 推荐大家继续将<a href="#pic">Git的工作目录和Git的状态结合起来看。</a>
+
 ![](https://img-blog.csdnimg.cn/2019013118222919.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1FpbnFpblRheWxvcg==,size_16,color_FFFFFF,t_70)
+
 现在更加理解了， 我们工作的地方在本地文件夹， 也就是working directory. 而Git要对我们的文件夹进行监控与控制， 是在git directory,
 
 再重新回顾一下这<a href="#concept">三个工作区域的</a>概念， 相信你会更加理解。
