@@ -80,18 +80,10 @@ One baby step a day, but never step back.
 
 
 
-## Join Us
+## Join Me
 
-整个项目长期在GitHub更新，在微博有课程更新通知，公开面向所有人。GIA所有的课程是动态维护的，不是一写出来就不变了。我有时间就会点进微博的**#GIA#**相关话题和超话看大家的作业情况、暴露的问题，结合Github的issue，会不断补充大家遇到的问题的解决方案。比如第一二节课都是改了又改，而且会不断出现番外篇。这些番外的课程，对于上课顺风顺水的同学可能没什么，对于遇到磕磕碰碰的同学应该会起到不小的帮助。
+整个项目长期在GitHub更新，在微博有课程更新通知，公开面向所有人。参与这个课程的方式就是，在GitHub里star点亮这个项目，随时随地打开电脑就能学，欢迎把学习成果在微博分享@Girls-In-AI。在课程中有任何疑问或建议欢迎向我提issue👧
 
-参与这个课程的方式就是，在GitHub star点亮这个项目，随时随地打开电脑就能学，欢迎把学习成果在微博分享@Girls-In-AI。在课程中有任何疑问欢迎在Github提issue，有对课程想贡献的朋友欢迎pull request👧
-
-#### Issue Tutorial
-
-[GitHub-issue的正确使用方式](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/github/issue.md)
-
-目前这个项目是挤出空余时间维护的，所以更新速度、质量、美观等不能周全。时间和精力都非常有限，从实用性和美观性中，请原谅现在只能往实用性考虑。
-
-从零开始，如果你有什么意见或者建议都可以微博私信提给@Girls-In-AI或者直接issue。
+从零开始，如果你有什么意见或者建议都可以微博私信提给@Girls-In-AI或者直接issue，[GitHub-issue的正确使用方式](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/github/issue.md)。 
 
 Let's see what we can do.
