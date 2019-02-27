@@ -34,7 +34,7 @@
 - [x] Day-14：[function 函数](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/function/func.md)
 - [x] Day-15：[读文件/写文件](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/read_write/read_write_txt.ipynb) 
 - [x] Day-16：[pip install xxx](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/package/import.md) 
-- [ ] Day-17：初识 dataframe
+- [x] Day-17：[初识 dataframe](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/data_type/dataframe.ipynb) 
 - [ ] Day-18：下载文件/保存文件
 - [ ] Day-19：面向对象编程
 - [ ] ......
