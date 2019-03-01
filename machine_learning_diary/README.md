@@ -1,4 +1,4 @@
-# 第一期：人工智障工程师养成计划
+# 人工智障工程师养成计划
 
 **[machine_learning_diary](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary)** 是人工智障工程师养成日记系列，代号简称**ML-Diary**。每次的课程以日记的形式发布，但是不是日更的节奏。希望大家通过每天进步一点点，成为一个AI killer😝
 
@@ -10,9 +10,9 @@
 
 
 
-下面是近期课程安排，会根据实际情况会有轻微变动。
+## 第一期：小白Python入门
 
-## 课程列表
+##### 课程列表
 
 - [x] Day-0：[注册GitHub，star点亮Girls-In-AI](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/github/signup.md)
 - [x] Day-1：[初识 Python](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/print/README.md)
@@ -42,4 +42,11 @@
 
 学完基础课后会更有趣，敬请期待！
 
-**More fancy demos are waiting for you🤞**
+
+
+## 第二期：屠龙刀-kaggle
+
+- [ ] 初识Titanic
+- [ ] ......
+
+**More fancy demos are waiting for you🤞** 

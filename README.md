@@ -15,19 +15,25 @@ If you want to be one of Girls In AI, welcome👏
 
 **GirlsInAI** 是一个面向编程零基础女孩子的AI算法工程师养成计划。这个计划鼓励更多的女孩子去学习编程甚至成为科技行业的领袖。
 
-经常会收到很多私信问，看了一堆资料还是不知道怎么入手。或者是编程语言那么多，工程师种类那么多，不知道该怎么选择，是不是可以选最简单的前端工程师入门。在私信里一个个回复的成本太高了，不如直接写出来供大家参考。
+我经常会收到很多私信问，看了一堆资料还是不知道怎么入手。或者是编程语言那么多，工程师种类那么多，不知道该怎么选择，是不是可以选最简单的前端工程师入门。在私信里一个个回复的成本太高了，不如直接写出来供大家参考。
 
 如果你真的热爱真的想成为的是AI算法工程师（也就是机器学习ML工程师），就从机器学习开始学起。很多人有一个误区，不是所有敲代码都是算法工程师。你做前端转到算法和你做会计转到算法一样，都属于转行。不要浪费时间。
 
 
 
-## First Step：Machine Learning Diary
+## Plan A：Machine Learning Diary
 
-[**人工智障算法工程师养成记**](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary)
+**[machine_learning_diary](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary)** 是 **人工智障工程师** 养成日记系列，代号简称**ML-Diary**。每次的课程以日记的形式发布，但是不是日更的节奏。希望大家通过每天进步一点点，成为一个AI killer😝
 
-One baby step a day, but never step back.
+每一个小日记，用来记录你在机器学习的点滴痕迹。
 
-分享的内容如下：
+- 环境：Windows / MacOS
+- 工具：Anaconda - Jupyter Notebook
+- 语言：Python3
+
+
+
+分享的内容包含：
 
 - 选择什么语言什么工具
 - 怎么运行自己的第一行代码
@@ -40,7 +46,7 @@ One baby step a day, but never step back.
 - 注重学习的顺序性
 - 身处这个行业中，会把分享内容的方向跟着潮流走
 
-我会从头开始科普，每次更新的内容只有一点点，适合放学下班饭后入睡前敲敲打打试一试。上课传送门：[第一期：人工智障工程师养成计划](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/README.md)。
+我会从头开始科普，每次更新的内容只有一点点，适合放学下班饭后入睡前敲敲打打试一试。上课传送门：[人工智障工程师养成计划](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/README.md) 
 
 目的是教到你能自力更生，能自己找资料，能自己知道自己要学什么为止。
 
