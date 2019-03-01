@@ -32,10 +32,10 @@
 - [x] Day-12：[for 循环](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/loop/for.md)
 - [x] Day-13：[try/except 异常处理](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary/base/try_except)
 - [x] Day-14：[function 函数](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/function/func.md)
-- [x] Day-15：[读文件/写文件](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/read_write/read_write_txt.ipynb) 
+- [x] Day-15：[读/写 txt](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/read_write/read_write_txt.ipynb) 
 - [x] Day-16：[pip install xxx](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/package/import.md) 
 - [x] Day-17：[初识 dataframe](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/data_type/dataframe.ipynb) 
-- [ ] Day-18：下载文件/保存文件
+- [x] Day-18：[下载/保存 excel](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/read_write/read_save_excel.ipynb) 
 - [ ] Day-19：面向对象编程
 - [ ] ......
 - [ ] To be continued...
