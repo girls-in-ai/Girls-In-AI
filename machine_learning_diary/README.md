@@ -36,7 +36,7 @@
 - [x] Day-16：[pip install xxx](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/package/import.md) 
 - [x] Day-17：[初识 dataframe](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/data_type/dataframe.ipynb) 
 - [x] Day-18：[下载/保存 excel](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/read_write/read_save_excel.ipynb) 
-- [ ] Day-19：面向对象编程
+- [x] Day-19：[面向对象编程](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/class/class_1.ipynb) 
 - [ ] ......
 - [ ] To be continued...
 
@@ -46,7 +46,8 @@
 
 ## 第二期：屠龙刀-kaggle
 
-- [ ] 初识Titanic
+- [ ] 初识 Kaggle
+- [ ] 初识 Titanic
 - [ ] ......
 
 **More fancy demos are waiting for you🤞** 
