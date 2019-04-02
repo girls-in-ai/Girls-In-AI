@@ -22,6 +22,8 @@
 
 2019-1-29	GIA GitHub重构，并重新review所有课程内容
 
+2019-4-2	GIA GitHub重构，思考diary形式是否可持续下去
+
 
 
 Let's see how far we can go! 😎
