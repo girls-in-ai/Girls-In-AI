@@ -1,16 +1,10 @@
 # Girls-In-AI
 **Coding is the new sexy.** 
-
 If you want to be one of Girls In AI, welcome👏
 
 入门帖：[如何成为一名AI算法工程师](https://m.weibo.cn/status/4289240508237933?)
-
 如果你是第一次玩GitHub：[注册GitHub账号教程](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/github/signup.md)
-
 欢迎关注微博账号 [@Girls-In-AI](https://m.weibo.cn/profile/2650740963)，获取Girls-In-AI的最新内容，一起遇见更多喜欢AI喜欢代码的女孩子🙌~
-
-
-
 
 
 ## What is Girls-In-AI
@@ -49,8 +43,6 @@ If you want to be one of Girls In AI, welcome👏
 - run fancy demos
 - 机器学习面试题分享
 - 组织大家为公益项目免费写代码
-
-
 
 
 
