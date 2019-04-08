@@ -55,7 +55,7 @@
 
 
 
-### 第二期：数据分析 Data Science [coming soon...]
+### 第二期：Become a Data Analyst [coming soon...]
 
 ##### 课程列表
 
@@ -77,7 +77,7 @@
 
 
 
-### 第三期：机器学习 [coming soon...]
+### 第三期：机器学习入门 [coming soon...]
 
 ##### 课程列表
 
