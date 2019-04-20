@@ -61,7 +61,7 @@ MacOS点击绿色图标Anaconda Navigator点开之后你将看见：
 
 
 
-**注意！！接下来是Windows版本的方法介绍，MacOS的同学们请点击这个链接进行尝试：[点我！快点我！](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/day-2/Python_for_MAC.md)**
+**注意！！接下来是Windows版本的方法介绍，MacOS的同学们请点击这个链接进行尝试：[点我！快点我！](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/env_config/Python_for_MAC.md)**
 
 
 
