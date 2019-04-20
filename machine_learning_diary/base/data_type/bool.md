@@ -83,10 +83,13 @@ True
 **1. 这些符号并不是数学符号** 
 
 比如数学里面的等号“=”, python里的等号是”==“； 
-python里的“=” 是“赋值”，即我们在 **“变量”** 那一节学的内容，x=5, x作为一个变量，它的值是5 
+python里的“=” 是“赋值”，即我们在 **“变量”** 那一节学的内容，x=5, x作为一个变量，它的值是5
+
 ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/bool/3.png?raw=true)
 
-**2. 布尔表达式返回的True和False，是布尔类型的两个取值，它们不是字符串string**![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/bool/4.png?raw=true)
+**2. 布尔表达式返回的True和False，是布尔类型的两个取值，它们不是字符串string**
+
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/bool/4.png?raw=true)
 
 第一个是布尔表达式返回的True，不带引号；
 第二个是字符串string返回的格式str (string), 带引号。
