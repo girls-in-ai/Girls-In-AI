@@ -44,8 +44,11 @@
 
 #### 分割字符串 
 
-利用‘找字符’的方法‘[ ]’ 我们不仅可以找单独一个字符，我们也可以提取‘一部分’的字符串 
-例如我们想提取’apple’里面的最后三个字符’ple’  ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/string/5.png?raw=true)
+利用‘找字符’的方法‘[ ]’ 我们不仅可以找单独一个字符，我们也可以提取‘一部分’的字符串
+
+例如我们想提取’apple’里面的最后三个字符’ple’
+
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/string/5.png?raw=true)
 
 - 你们看是不是有点奇怪，为什么我提取e的时候用的是length, 而不是length -1？  
 
@@ -56,7 +59,7 @@
 
 
 
-#### 用’in‘ 找字符 
+#### 用 `in` 找字符 
 
 in 是一个布尔运算符，可以比较两个字符串，所以返回值是true/false,很好理解，如 
 <img src="https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/string/7.png?raw=true" width="50%" height="50%" />  
