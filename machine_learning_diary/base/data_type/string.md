@@ -33,8 +33,11 @@
 返回字符串的长度，即字符串有多少个字符
 
 ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/string/3.png?raw=true)
-‘apple’这个字符串一共有5个字符，’a’, ‘p’, ‘p’, ‘l’, ‘e’ 
-我们可以在这个函数上加一些玩法 
+
+‘apple’这个字符串一共有5个字符，’a’, ‘p’, ‘p’, ‘l’, ‘e’
+
+我们可以在这个函数上加一些玩法
+
 ![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/string/4.png?raw=true)
 
 
@@ -90,7 +93,9 @@ phone.upper() — method
 
 - %d —— 格式化整数
 - %g—— 格式化浮点数（带小数部分）
-- %s —— 格式化字符串  <img src="https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/string/12.png?raw=true" width="80%" height="80%" />  
+- %s —— 格式化字符串
+  
+  <img src="https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/ml_diary/string/12.png?raw=true" width="80%" height="80%" />  
 
 - 百分号%对int这个数据格式而言，是模运算符； 但对字符串而言，%是格式操作符  
 
