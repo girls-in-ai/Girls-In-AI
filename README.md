@@ -59,19 +59,19 @@
 
 ##### 课程列表
 
-- [ ] 番外：初识 Kaggle
-- [ ] Day-20：Numpy, Matplotlib, Seanborn [data: titanic]
-- [ ] Day-21：lambda
-- [ ] Day-22：数据可视化：散点图
-- [ ] Day-23：柱状图、热力图、各种图
-- [ ] Day-24：使用描述性统计数据理解数据[[demo](https://machinelearningmastery.com/python-machine-learning-mini-course/)] 
-- [ ] Day-25：缺失值处理 等数据清洗工作
-- [ ] Day-26：各种采样方法
-- [ ] Day-27：数据标准化，正则化，
-- [ ] Day-28：文本数据清洗
-- [ ] Day-29：One-Hot encoding
-- [ ] Day-30：词云图
-- [ ] Day-31：文本相似性
+- [ ] Day-20：[初识 Kaggle](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/data_analysis/kaggle_intro.md) 
+- [ ] Day-21：Numpy, Matplotlib, Seanborn [data: titanic]
+- [ ] Day-22：lambda
+- [ ] Day-23：数据可视化：散点图
+- [ ] Day-24：柱状图、热力图、各种图
+- [ ] Day-25：使用描述性统计数据理解数据[[demo](https://machinelearningmastery.com/python-machine-learning-mini-course/)] 
+- [ ] Day-26：缺失值处理 等数据清洗工作
+- [ ] Day-27：各种采样方法
+- [ ] Day-28：数据标准化，正则化，
+- [ ] Day-29：文本数据清洗
+- [ ] Day-30：One-Hot encoding
+- [ ] Day-31：词云图
+- [ ] Day-32：文本相似性
 - [ ] 实战项目 - iris
 - [ ] To be continued...
 
