@@ -60,10 +60,10 @@
 ##### 课程列表
 
 - [ ] Day-20：[初识 Kaggle](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/data_analysis/kaggle_intro.md) 
-- [ ] Day-21：Numpy, Matplotlib, Seanborn [data: titanic]
+- [ ] Day-21：[初识 Numpy, Matplotlib, Seanborn [柱状图、折线图、箱图]](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/data_analysis/titanic_plot.ipynb) 
 - [ ] Day-22：lambda
 - [ ] Day-23：数据可视化：散点图
-- [ ] Day-24：柱状图、热力图、各种图
+- [ ] Day-24：热力图、各种图
 - [ ] Day-25：使用描述性统计数据理解数据[[demo](https://machinelearningmastery.com/python-machine-learning-mini-course/)] 
 - [ ] Day-26：缺失值处理 等数据清洗工作
 - [ ] Day-27：各种采样方法
