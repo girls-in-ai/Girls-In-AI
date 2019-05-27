@@ -10,10 +10,6 @@
 
 
 
-[TOC]
-
-
-
 ## machine_learning_diary
 
 **machine_learning_diary** 是 **人工智障工程师** 养成日记系列，代号简称**ML-Diary**。每次的课程以日记的形式发布，但不是日更的节奏。希望大家通过每天进步一点点，成为一个AI killer😝
