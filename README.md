@@ -118,13 +118,10 @@ Python Data Science Handbook [[book](https://jakevdp.github.io/PythonDataScience
 - [ ] Day-65：[Numpy 数组排序](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/02.08-Sorting.ipynb) 
 - [ ] Day-66：[Numpy 结构化数组](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/02.09-Structured-Data-NumPy.ipynb) 
 
+**To be continued...** 
 
-
-- [ ] Day-31：数据标准化，正则化，
-- [ ] Day-33：One-Hot encoding
-- [ ] Day-34：词云图
-- [ ] Day-35：文本相似性
-- [ ] 实战项目 - iris
+- [ ] Day-67：数据标准化，正则化，
+- [ ] Day-68：One-Hot encoding
 
 
 
@@ -207,6 +204,7 @@ Python Data Science Handbook [[book](https://jakevdp.github.io/PythonDataScience
 
 - [ ] word2vec
 - [ ] word cloud
+- [ ] 文本相似性
 - [ ] ...
 
 
