@@ -105,8 +105,8 @@ Python Data Science Handbook [[book](https://jakevdp.github.io/PythonDataScience
 
 **Numpy** 
 
-- [x] Day-55：[Numpy 基础1](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/data_analysis/NumPy.ipynb) 
-- [x] Day-56：[Numpy 基础2](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/numpy.ipynb) 
+- [ ] Day-55：[Numpy 基础1](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/data_analysis/NumPy.ipynb) 
+- [ ] Day-56：[Numpy 基础2](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/numpy.ipynb) 
 - [ ] Day-57：[Numpy 数据类型介绍](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/02.01-Understanding-Data-Types.ipynb) 
 - [ ] Day-58：[Numpy 数列Array](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/02.02-The-Basics-Of-NumPy-Arrays.ipynb) 
 - [ ] Day-59：[Numpy 转置](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/data_analysis/transpose.ipynb) 
