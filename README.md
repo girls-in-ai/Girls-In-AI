@@ -12,7 +12,7 @@
 
 ## machine_learning_diary
 
-**machine_learning_diary** 是 **人工智障工程师** 养成日记系列，代号简称**ML-Diary**。每次的课程以日记的形式发布，但不是日更的节奏。希望大家通过每天进步一点点，成为一个AI killer😝
+**machine_learning_diary** 是 **人工智能工程师** 养成日记系列，代号简称**ML-Diary**。每次的课程以日记的形式发布，但不是日更的节奏。希望大家通过每天进步一点点，成为一个AI killer😝
 
 每一个小日记，learn by doing，用来记录你在机器学习的点滴痕迹。
 
