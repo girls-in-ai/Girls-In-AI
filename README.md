@@ -170,6 +170,7 @@ Python Data Science Handbook [[book](https://jakevdp.github.io/PythonDataScience
 - [ ] Tensorflow, run demo
 - [ ] Keras, run demo
 - [ ] [Pytorch](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/deep_learning/07_PyTorch.ipynb) 
+- [ ] [60分钟入门Pytorch 深度学习](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) 
 - [ ] [多层感知机](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/deep_learning/08_Multilayer_Perceptron.ipynb) 
 - [ ] [CNN, run demo](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/deep_learning/11_Convolutional_Neural_Networks.ipynb) 
 - [ ] [RNN, run demo](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/deep_learning/13_Recurrent_Neural_Networks.ipynb) 
