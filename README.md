@@ -173,6 +173,7 @@ Python Data Science Handbook [[book](https://jakevdp.github.io/PythonDataScience
 - [ ] [60分钟入门Pytorch 深度学习](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) 
 - [ ] [多层感知机](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/deep_learning/08_Multilayer_Perceptron.ipynb) 
 - [ ] [CNN, run demo](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/deep_learning/11_Convolutional_Neural_Networks.ipynb) 
+- [ ] [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/) 
 - [ ] [RNN, run demo](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/deep_learning/13_Recurrent_Neural_Networks.ipynb) 
 - [ ] [高级RNN](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/deep_learning/14_Advanced_RNNs.ipynb) 
 - [ ] GAN
@@ -201,6 +202,149 @@ Python Data Science Handbook [[book](https://jakevdp.github.io/PythonDataScience
 - [ ] word cloud
 - [ ] 文本相似性
 - [ ] ...
+
+
+
+### 成长篇：程序员的自我修养
+
+from [Leo Hui](https://github.com/leohxj) 
+
+- [介紹](https://leohxj.gitbooks.io/a-programmer-prepares/content/index.html) 
+- **1.** 程序员基础知识
+  - [**1.1.** 字符编码](https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/character-encoding.html)
+  - [**1.2.** 技术名词](https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/technical-terms.html)
+  - [**1.3.** 语义化版本](https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/semantic-versioning.html)
+  - [**1.4.** 命名规范](https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/naming.html)
+  - [**1.5.** 书写文档](https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/write-document.html)
+  - [**1.6.** 开源协议](https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/open-source-license.html)
+  - [**1.7.** 目录结构](https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/directory.html)
+  - [**1.8.** 正则表达式](https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/regular-expression.html)
+  - [**1.9.** 平凡之路](https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/ordinary-road.html)
+- **2.** 数据结构与算法
+  - [**2.1.** 堆和栈](https://leohxj.gitbooks.io/a-programmer-prepares/content/data-structures-and-algorithm/heap-and-stack.html)
+  - [**2.2.** 浮点数类型](https://leohxj.gitbooks.io/a-programmer-prepares/content/data-structures-and-algorithm/data-structure-float.html)
+  - [**2.3.** XML和JSON](https://leohxj.gitbooks.io/a-programmer-prepares/content/data-structures-and-algorithm/xml-and-json.html)
+  - [**2.4.** 算法学习之路](https://leohxj.gitbooks.io/a-programmer-prepares/content/data-structures-and-algorithm/learning-road.html)
+  - [**2.5.** 排序算法](https://leohxj.gitbooks.io/a-programmer-prepares/content/data-structures-and-algorithm/sort-algorithm.html)
+- **3.** 代码架构
+  - **3.1.** 设计模式
+    - [**3.1.1.** 常用的Javascript设计模式](https://leohxj.gitbooks.io/a-programmer-prepares/content/architecture/design-pattern/design-pattern-js.html)
+  - **3.2.** 面向对象编程
+    - [**3.2.1.** 继承](https://leohxj.gitbooks.io/a-programmer-prepares/content/architecture/object-oriented-programming/inheritance.html)
+    - [**3.2.2.** 多态](https://leohxj.gitbooks.io/a-programmer-prepares/content/architecture/object-oriented-programming/polymorphism.html)
+    - [**3.2.3.** 封装](https://leohxj.gitbooks.io/a-programmer-prepares/content/architecture/object-oriented-programming/encapsulation.html)
+  - [**3.3.** 面向接口编程](https://leohxj.gitbooks.io/a-programmer-prepares/content/architecture/interface-oriented-programming/index.html)
+- **4.** 代码评审
+  - [**4.1.** 六种量化你代码的方式](https://leohxj.gitbooks.io/a-programmer-prepares/content/code-review/6-ways-to-quantify-your-code.html)
+  - [**4.2.** 程序员必备的代码审查（Code Review）清单](https://leohxj.gitbooks.io/a-programmer-prepares/content/code-review/code-review-list.html)
+- **5.** 服务器部署
+  - [**5.1.** AWS简介](https://leohxj.gitbooks.io/a-programmer-prepares/content/deploy/aws-intro.html)
+- **6.** 网络知识
+  - [**6.1.** HTTPS, SPDY和 HTTP/2性能的简单对比](https://leohxj.gitbooks.io/a-programmer-prepares/content/networks/a-simple-performance-comparison-of-https-spdy-and-http2.html)
+  - [**6.2.** HTTP状态码](https://leohxj.gitbooks.io/a-programmer-prepares/content/networks/http-status-code.html)
+- **7.** 懂点设计
+  - [**7.1.** 佳作赏析](https://leohxj.gitbooks.io/a-programmer-prepares/content/design/appreciate.html)
+  - [**7.2.** 无缝平铺](https://leohxj.gitbooks.io/a-programmer-prepares/content/design/infinite-tile.html)
+  - [**7.3.** Sketch学习](https://leohxj.gitbooks.io/a-programmer-prepares/content/design/learning-sketch.html)
+  - [**7.4.** 设计与实现的平衡](https://leohxj.gitbooks.io/a-programmer-prepares/content/design/balance-design-and-realize.html)
+- **8.** 写点东西
+  - [**8.1.** 使用gitbook](https://leohxj.gitbooks.io/a-programmer-prepares/content/writing/using-gitbook.html)
+- **9.** 合格的PM
+  - [**9.1.** 一个好的产品经理](https://leohxj.gitbooks.io/a-programmer-prepares/content/pm/good-product-manager.html)
+  - [**9.2.** 产品经理的技能](https://leohxj.gitbooks.io/a-programmer-prepares/content/pm/pm-skills.html)
+- **10.** 团队合作
+  - [**10.1.** 关于招聘](https://leohxj.gitbooks.io/a-programmer-prepares/content/teamwork/hiring.html)
+  - [**10.2.** 培训新人](https://leohxj.gitbooks.io/a-programmer-prepares/content/teamwork/training.html)
+  - [**10.3.** 领导能力](https://leohxj.gitbooks.io/a-programmer-prepares/content/teamwork/leader.html)
+- **11.** 获取知识
+  - [**11.1.** MOOC](https://leohxj.gitbooks.io/a-programmer-prepares/content/knowledge/learning-mooc.html)
+  - [**11.2.** Podcasts](https://leohxj.gitbooks.io/a-programmer-prepares/content/knowledge/podcasts.html)
+  - [**11.3.** 英语学习](https://leohxj.gitbooks.io/a-programmer-prepares/content/knowledge/learning-english.html)
+  - [**11.4.** 设计学习](https://leohxj.gitbooks.io/a-programmer-prepares/content/knowledge/learning-design.html)
+  - [**11.5.** 前端学习](https://leohxj.gitbooks.io/a-programmer-prepares/content/knowledge/learning-front-end.html)
+  - [**11.6.** iOS学习](https://leohxj.gitbooks.io/a-programmer-prepares/content/knowledge/learning-ios.html)
+  - [**11.7.** 游戏开发](https://leohxj.gitbooks.io/a-programmer-prepares/content/knowledge/learning-games.html)
+- **12.** 关注健康
+  - [**12.1.** 过劳检测](https://leohxj.gitbooks.io/a-programmer-prepares/content/healthy/detect-overwork.html)
+  - [**12.2.** 关于睡眠](https://leohxj.gitbooks.io/a-programmer-prepares/content/healthy/about-sleep.html)
+- **13.** 提升效率
+  - [**13.1.** 学会阅读](https://leohxj.gitbooks.io/a-programmer-prepares/content/effciency/how-to-read.html)
+  - [**13.2.** 学会提问](https://leohxj.gitbooks.io/a-programmer-prepares/content/effciency/how-to-ask.html)
+  - [**13.3.** 善用搜索](https://leohxj.gitbooks.io/a-programmer-prepares/content/effciency/how-to-search.html)
+  - [**13.4.** 学会写作](https://leohxj.gitbooks.io/a-programmer-prepares/content/effciency/how-to-write.html)
+  - [**13.5.** 科学上网](https://leohxj.gitbooks.io/a-programmer-prepares/content/effciency/great-fire-wall.html)
+  - [**13.6.** 突破内网](https://leohxj.gitbooks.io/a-programmer-prepares/content/effciency/break-through-intranet.html)
+  - [**13.7.** 时间管理](https://leohxj.gitbooks.io/a-programmer-prepares/content/effciency/mange-time.html)
+  - [**13.8.** 知识管理](https://leohxj.gitbooks.io/a-programmer-prepares/content/effciency/mange-knowledge.html)
+  - [**13.9.** 文件管理](https://leohxj.gitbooks.io/a-programmer-prepares/content/effciency/mange-files.html)
+  - [**13.10.** 密码管理](https://leohxj.gitbooks.io/a-programmer-prepares/content/effciency/mange-password.html)
+  - [**13.11.** 制作视频](https://leohxj.gitbooks.io/a-programmer-prepares/content/effciency/share-with-video.html)
+  - [**13.12.** 制作PPT](https://leohxj.gitbooks.io/a-programmer-prepares/content/effciency/share-with-slide.html)
+  - [**13.13.** 论音乐对效率的影响](https://leohxj.gitbooks.io/a-programmer-prepares/content/effciency/music-vs-efficiency.html)
+  - [**13.14.** 程序员效率指南](https://leohxj.gitbooks.io/a-programmer-prepares/content/effciency/coder-guide.html)
+- **14.** SOHO
+  - [**14.1.** 创业资源](https://leohxj.gitbooks.io/a-programmer-prepares/content/soho/resource.html)
+- **15.** Hacker
+  - [**15.1.** 保护隐私](https://leohxj.gitbooks.io/a-programmer-prepares/content/hacker/protect-privacy.html)
+- **16.** 关于工作
+  - [**16.1.** 找工作前需要思考的问题](https://leohxj.gitbooks.io/a-programmer-prepares/content/offer/before-find-offer.html)
+  - [**16.2.** 原则与技巧](https://leohxj.gitbooks.io/a-programmer-prepares/content/offer/interview-principle-and-skill.html)
+  - [**16.3.** 关于简历](https://leohxj.gitbooks.io/a-programmer-prepares/content/offer/about-resume.html)
+- **17.** 其他方面
+  - [**17.1.** 硬件相关](https://leohxj.gitbooks.io/a-programmer-prepares/content/others/hardware.html)
+- **18.** 常用软件
+  - **18.1.** Windows
+    - [**18.1.1.** 硬件配置](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/windows/hardware.html)
+    - [**18.1.2.** 系统安装](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/windows/install-windows.html)
+    - [**18.1.3.** 常用软件](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/windows/software-list.html)
+  - **18.2.** Mac
+    - [**18.2.1.** 通用设置](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/mac/setting.html)
+    - [**18.2.2.** 权限问题](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/mac/permissions.html)
+    - [**18.2.3.** alias设置](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/mac/alias.html)
+    - **18.2.4.** 常用软件
+      - [**18.2.4.1.** iTerm2](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/mac/softwares/iTerm2.html)
+      - [**18.2.4.2.** brew](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/mac/softwares/brew.html)
+      - [**18.2.4.3.** zsh](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/mac/softwares/zsh.html)
+      - [**18.2.4.4.** 1Password](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/mac/softwares/1Password.html)
+      - [**18.2.4.5.** TextExpander](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/mac/softwares/TextExpander.html)
+      - [**18.2.4.6.** 欧陆词典](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/mac/softwares/euDic.html)
+      - [**18.2.4.7.** popClip](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/mac/softwares/popClip.html)
+      - [**18.2.4.8.** manico](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/mac/softwares/manico.html)
+      - [**18.2.4.9.** 窗口管理器](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/mac/softwares/window-management.html)
+      - [**18.2.4.10.** BetterTouchTool](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/mac/softwares/bettertouchtool.html)
+    - [**18.2.5.** 开发环境](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/mac/develop-environment.html)
+    - [**18.2.6.** 快捷键设置](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/mac/shortcuts.html)
+    - [**18.2.7.** 常用终端命令](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/mac/usefully-command.html)
+    - [**18.2.8.** dotfiles](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/mac/dotfiles.html)
+  - **18.3.** Android
+    - [**18.3.1.** 常用软件](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/android/software-list.html)
+    - [**18.3.2.** 如何登录美国区GooglePlay](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/android/google-play.html)
+  - **18.4.** 开发工具
+    - [**18.4.1.** git](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/develop-tool/git.html)
+    - [**18.4.2.** EditorConfig](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/develop-tool/editor-config.html)
+    - [**18.4.3.** node](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/develop-tool/node.html)
+    - [**18.4.4.** shadowsocks](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/develop-tool/shadowsocks.html)
+    - [**18.4.5.** ST3--Windows篇](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/develop-tool/windows-sublimetext3.html)
+    - [**18.4.6.** ST3--Mac篇](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/develop-tool/mac-sublimetext3.html)
+    - [**18.4.7.** gulp](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/develop-tool/gulp.html)
+    - [**18.4.8.** 字体的选择](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/develop-tool/fonts.html)
+    - [**18.4.9.** Emacs](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/develop-tool/emacs.html)
+    - [**18.4.10.** WebStorm](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/develop-tool/webstorm.html)
+    - [**18.4.11.** tmux](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/develop-tool/tmux.html)
+  - **18.5.** Sketch
+    - [**18.5.1.** Sketch中文学习资料](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/sketch/Awesome-Sketch.html)
+  - **18.6.** Trello
+    - [**18.6.1.** 使用Trello管理项目的经验](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/trello/use-trello-manage-project.html)
+  - **18.7.** git进阶
+    - [**18.7.1.** 15分钟学会使用Git和远程代码库](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/git/getting-start.html)
+    - [**18.7.2.** GitHub秘籍](https://leohxj.gitbooks.io/a-programmer-prepares/content/software/git/github-cheat-sheet.html)
+  - **18.8.** JetBrains
+    - [**18.8.1.** IDE设置](https://leohxj.gitbooks.io/a-programmer-prepares/content/JetBrains/ide-setting.html)
+- **19.** 附录
+  - [**19.1.** 计算机科学与技术](https://leohxj.gitbooks.io/a-programmer-prepares/content/appendix/computer-science.html)
+  - [**19.2.** 网站](https://leohxj.gitbooks.io/a-programmer-prepares/content/appendix/websites.html)
+  - [**19.3.** 书籍](https://leohxj.gitbooks.io/a-programmer-prepares/content/appendix/books.html)
+  - [**19.4.** 工具](https://leohxj.gitbooks.io/a-programmer-prepares/content/appendix/tools.html) 
 
 
 
